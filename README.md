@@ -1,13 +1,448 @@
-瀼愠楬湧∽散瑮牥㸢趨胢肀냣肤듦肜胢肌裧肌듣肈ꃦ肐郧肀賧肨볢肼ꓦ肴鳦肸ꓦ肌볦肸賧肠룢肌볦肴볢肌郦肴飦肰铧肔룦肌ꓧ肼ꓣ肐볢肄ꓦ肈胧肰蓦肸铦肴郧肄곦肔듢肼飦肘룢肀룦肜裢肀鳧肤郦肐ꃦ肴裢肠胣肈胢肄냦肐듣肈냤肼鳦肼裢肼룣肴든඀㰊瀯ാ꣠肴든඀㰊ㅨ愠楬湧∽散瑮牥㸢 杁湥楴⁣䥁吠慲敶⁬汐湡敮㱲栯㸱趨든肴਍瀼愠楬湧∽散瑮牥㸢趨胢肀냣肌郧肈볦肸鳦肸蓤肀들肔냦肐ꓦ肴蓤肜铦肸郧肰胢肐볦肼냦肴蓤肔鳦肴铦肸郧肔郦肀蓤肤胢肐裧肄飧肔냦肀賤肼룦肌ꓦ肔裧肜铦肀瀠睯牥摥戠⁹慌杮片灡ⱨ䜠潲ⱱ愠摮删慥⵬楔敭䄠䥐⹳⼼瑳潲杮ാ꣠肰볢肀룣肴든඀ഊ꣠肰胧肀蓦肰ꓦ肜룦肴裢肌铦肸郧肔裧肈룣肴든඀ 㰠浥匾汯楶杮琠敨瀠牡摡硯漠⁦档楯散椠⁮牴癡汥瀠慬湮湩⁧楷桴愠瑵湯浯畯⁳䥁愠敧瑮⁳桴瑡爠獥慥捲ⱨ挠污畣慬整‬湡⁤汰湡 胢肌볦肀ꓧ肼铧肀郦肼룦肜郧肀ꃦ肄飧肔胢肐볦肸냣肼铦肴룣肴든඀㰊瀯ാ꣠肴든඀㰊⁰污杩㵮挢湥整≲ാ꣠肀胢肰蓦肀ꃦ肈铦肘듣肈賢肈룣肰ꓦ肴鳦肀賧肈賦肴裢肠郧肐胧肌꣣肼볢肤듦肜룢肌ꃦ肤铦肰郦肌룢肤볦肼裦肄郦肜铦肼胥肤郧肠볦肸듢肌룢肄蓣肬듢肌鳣肜飣肄裤肼賧肐ꓧ肰铦肴飦肼裧肴郧肠铦肴裦肄郦肜铦肘냦肼鳦肼듣肀ꓧ肐ꃦ肼룦肘냦肼鳦肼賤肼냦肼裧肴鳧肠ꓦ肐铦肈胢肄냦肐듣肈胥肤郧肠볦肸裢肼룣肰볢肄룣肴든඀ 㰠⁡牨晥∽∣㰾浩⁧牳㵣栢瑴獰⼺椯杭献楨汥獤椮⽯慢杤⽥楌散獮ⵥ䥍ⵔ牧敥㽮瑳汹㵥潦⵲桴ⵥ慢杤≥愠瑬∽楌散獮≥㸯⼼㹡趨胢肀냣肄胢肠裧肔飦肴裢肌裢肸냣肤듦肜胢肌裧肌듣肈ꃦ肐郧肀賧肨볢肼ꓦ肴鳦肸賧肠ꓦ肔냦肐賧肸ꓦ肼볢肈蓦肐鳦肔볢肰蓦肸鳦肜裧肄胧肠듢肄鳦肔룦肐ꓦ肌볥肄ꓤ肴飤肘飣肘胣肀볣肌郧肤냦肔듣肘볦肈듢肐ꃦ肔듢肈蓦肐鳦肔飢肰볦肜볦肴賦肠蓦肤룦肰ꓦ肸곦肘냦肼鳦肼賤肼냦肼裧肴鳧肠ꓦ肐铦肈胢肄냦肐듣肈냤肄룦肜鳤肈蓦肀ꃦ肈볢肸냣肼蓦肸든肴਍†愼栠敲㵦⌢㸢椼杭猠捲∽瑨灴㩳⼯浩⹧桳敩摬⹳潩戯摡敧䜯潲⵱汌浡彡⸳弳〷ⵢ㥅䔱㌶猿祴敬昽牯琭敨戭摡敧氦杯㵯敭慴氦杯䍯汯牯眽楨整•污㵴䜢潲≱㸯⼼㹡趨胢肀냣肄胢肠裧肔飦肴裢肌裢肸냣肤듦肜胢肌裧肌듣肈ꃦ肐郧肀賧肨볢肼ꓦ肴鳦肸賧肠ꓦ肔냦肐賧肸ꓦ肼볢肈蓦肐鳦肔볢肘蓦肌郧肄胥肤듢肈蓦肌곦肔룦肐듢肀胣肤飣肠ꃣ肼賧肐ꓧ肰铦肴飦肼裧肴郧肠铦肴裦肄郦肜铦肘냦肼鳦肼듣肘蓦肌郧肄胧肤飢肰볦肜볦肌볦肰볦肈듣肜ꃦ肤郧肔裢肀蓦肰郧肴裢肘蓦肌郧肄胥肤裢肼룣肰볢肄룣肴든඀ 㰠⁡牨晥∽∣㰾浩⁧牳㵣栢瑴獰⼺椯杭献楨汥獤椮⽯慢杤⽥汆獡⵫牆湯整摮〭〰〰㼰瑳汹㵥潦⵲桴ⵥ慢杤♥潬潧昽慬歳氦杯䍯汯牯眽楨整•污㵴䘢慬歳⼢㰾愯ാ꣠肰볢肀룣肴든඀ഊ꣠肰胧肀蓦肰ꓦ肜룦肴裢肌铦肸郧肔裧肈룣肴든඀ 㰠⁡牨晥∽瑨灴㩳⼯楧桴扵挮浯䴯獵慴慦潋慣慭湮㸢椼杭猠捲∽瑨灴㩳⼯浩⹧桳敩摬⹳潩术瑩畨⽢瑳牡⽳畍瑳晡䭡捯浡湡⽮楡琭慲敶⵬汰湡敮㽲瑳汹㵥潳楣污•污㵴匢慴獲⼢㰾愯ാ꣠肀胢肰蓦肀ꃦ肈铦肘듣肈ꃦ肐郧肀賧肨볢肼鳦肤郧肠铧肈룢肌볦肴볢肴铧肌郧肄飦肄곤肼賦肄듦肄룦肸裢肸냣肤듦肜胢肌裧肌듣肈ꃦ肐郧肀賧肨볢肼ꓦ肴鳦肸賧肠ꓦ肔냦肐賧肸ꓦ肼볢肜ꓦ肐ꃦ肔裦肼飦肼裧肬賧肼들肔賧肐蓦肘蓦肬볦肌蓦肴蓦肸룦肼蓦肤듢肐裧肄飧肔냦肴胧肰蓦肸룦肔裧肼賧肐ꓧ肰铦肴賧肼賦肤蓦肰裢肀蓦肰郧肴裢肘볦肈곦肌裢肼룣肰볢肄룣肴든඀㰊瀯ാ꣠肴든඀ⴊⴭ趨든肴਍瀼愠楬湧∽散瑮牥㸢趨胢肀냣肤듦肜胢肌裧肌듣肈ꃦ肐郧肀賧肨볢肼裧肄鳧肸鳦肤郧肠铧肈铧肌铦肈賦肼룦肐铦肸郧肸賦肼듦肼蓦肸郦肈铦肄賧肈듦肼裧肔蓦肐듦肔볢肴蓦肌郧肔裧肼蓦肌賧肔郧肌볢肰ꓦ肸铦肌볢肈蓦肤룦肈볦肜룢肀룦肜裢肀蓦肰郧肴裢肐ꓦ肘ꓦ肐铦肈裢肀鳧肤郦肐ꃦ肴裢肄胣肀铢肈볢肸든肴਍⼼㹰趨든肴਍⌣肼肀飥肤賧肔蓦肰胢肀裧肔飧肤铦肜든肴਍趨냣肀胢肄냦肤鳦肸듣肈賦肔룦肐铦肈裢肸든肴਍†椼杭猠捲∽潤獣搯獡扨慯摲灟敲楶睥朮晩•污㵴䴢獵慴慦䄠⁉牔癡汥䌠湯楣牥敧 胢肐蓦肌ꃦ肈볦肄裧肐胢肀裧肔飧肤铦肜裢肀鳧肤郦肐ꃦ肴裢肤胣肔裢肼룣肴든඀ 㰠牢㸯趨胢肀냣肔듦肸吠敨䄠⁉潃据敩杲⁥敧敮慲楴杮愠㔠搭祡倠牡獩椠楴敮慲祲眠瑩⁨楬敶眠慥桴牥‬慭⁰楰獮‬湡⁤䑐⁆硥潰瑲㰮支㹭趨냣肼胧肸든肴਍趨듢肴듢肴든඀ഊ꣠肌賢肀肀賥肤賧肐铦肴胢肄裧肌ꃦ肤郧肔賦肐铧肈铦肴든඀ഊ꣠肀胦肀듦肔裧肴蓦肤郦肴든඀朊慲桰吠ൂ꣠肀胢肀胢肌铧肈鳦肈蓦肀ꃦ肀裢胢肘裧肼룦肐铦肸郦肀䘠慬歳㨠〵〰ഢ꣠肀胢肀胢肀胢肀胢肄곥 慌摮湩⁧慐敧戼㹲升偁⬠吠楡睬湩⁤‫汇獡浳牯桰獩嵭ⴠ㸭䈠肼肀賤肠蓦肐胢肤룦肐铦肈飦肄賦肔냣肈裧肸들肄裧肬郦肼鳧肸胢肬胢肐ꓧ肀ꓦ肸鳦肀ꓤ肸郦肤賦肄郧肼裧肴든肴਍††††⁂ⴭ‾孃볥ƀ闢胢肰铦肄飦肰铦肐룢肨賧肀들肄胧肰裦肈룣肄铧肐볦肀들肄裧肬铦肈胢肀냦肼郧肐ꓦ肸鳦肴든肴਍††††⁂ⴭ‾孄볥ƀ胢肀郤肘胢肔ꃧ肀볦肈郧肰裦肈룣肠ꃦ肐듦肰裣肀郦肘胢肈裧肄룦肐铦肐胢肐볦肌賧肴든肴਍††††⁁ⴭ‾孅 牐晥牥湥散⁳潍慤㱬牢匾䱑瑩⁥敐獲獩整据嵥趨胢肀胢肀铦肸郦肴든඀ഊ꣠肀胢肀胢肌铧肈鳦肈蓦肀ꃦ肀裢 慂正湥⁤肀飤肄賧肐蓤肀ꓤ肀꣣肠胣肀胣肈든肴਍††††孆볥ƀ胢肄胥肤胢肈볦肔郧肔裧肴胢肴듢肸胢肜곥鿄胢肰蓦肸鳦肜裧肄胧肠胢肄鳦肔룦肐냣肈裧肸裥肔蓤肌郧肀냤肼볦肀듥肴든඀ †††䘠ⴠ㸭䠠肼쐁₞牐晥牥湥散䌠啒㱄牢匾䱑汁档浥⁹剏嵍趨胢肀胢肀胢肀胢肀鳤肀듢肴룣肀ꓤ肬肀郥肼볦肰胢肼裧肌ꃦ肔賧肐裧肄郧肼裧肴든肴਍††湥൤꣠肴든඀ †猠扵牧灡⁨肼 杁湥⁴潔汯≳趨胢肀胢肀胢肀胢肀ꓤ肀듢肴룣肀꣤肬肀볤肀铦肸鳥肔蓦肐ꃦ肔裧肴蓦肀냣肈裧肸賤肔裧肈铦肸郧肀곢肀铣肴郤肄ꓧ肀飤肼裧肔賦肄賧肐듥肴든඀ †††䤠ⴠ㸭䬠肼쐁₱潇杯敬倠慬散㱳牢匾慥捲⁨‫敒楶睥⁳‫潃牯獤൝꣠肀胢肀胢肀胢肀胢肤胢肴듢肸胢肰곥铢₀牆湡晫牵整⁲偁㱉牢刾慥⵬楔敭䔠捸慨杮⁥慒整嵳趨胢肀胢肀胢肀胢肀ꓤ肀듢肴룣肀들肬쐀肀賤肄냦肌铧肰蓦肐볦肈냣肈裧肸裤肔郦肜铦肐胢肬胢肐蓦肠胢肬胢肐ꓦ肀賧肴든肴਍††湥൤꣠肴든඀ †猠扵牧灡⁨肼肀胥肔裧肌ꓦ肌郧肔룦肌铦肀냤肄ꓧ肔裧肈든肴਍††††孎肼 兓楌整䐠瑡扡獡⥥൝꣠肀胢肀胢肀胢肀胢肠胢肴듢肸胢肸든肴਍††††⁇ⴭ簾湉敪瑣倠敲敦敲据獥⁼ൎ꣠肀胢肀胢肔룦肐든肴਍趨胢肀胢肀賧肔裦肜裧肄胧肠胢肈䰠䵌倠潲楶敤≲趨胢肀胢肀胢肀胢肀볤肬䜠潲ⁱ汃畯㱤牢䰾慬慭㌠㌮㜭䈰嘠牥慳楴敬൝꣠肀胢肀胢肔룦肐든肴਍趨胢肀胢肀裤肀듢肴룣肰胥肼賥肐胢肼蓧肔铦肈ꓧ肰胢肘든肴਍††⁅ⴭ簾佐呓⼠牰晥牥湥散米䘠趨胢肀胢肀郤肀듢肴룣肰胥肼賥肐胢肼铦肠胧肼裧肐볥肀郦肘냧肀飤肴든඀ †䜠ⴠ㸭传趨胢肀胢肀볤肀듢肴룣肀鳤肴든඀ഊ꣠肀胢肀胢肌郧肤냦肔胢肄胢肘ꓦ肰냦肨賢肀胣肄飤肌飤肰賧肐裧肼곦肔꣣肌飤肘郤肜胣肀냢肌볦肰볦肈꣣肌飤肘郤肜胣肀든肴਍††瑳汹⁥⁂楦汬⌺〰䘱䘳猬牴歯㩥䘣䑆〷ⰰ潣潬㩲䘣䑆〷ര꣠肀胢肀胢肌郧肤냦肔胢肜胢肘ꓦ肰냦肨賢肄蓦肄蓦肈铦肰賧肐裧肼곦肔꣣肌铦肤郣肔飣肀냢肌볦肰볦肈꣣肌飤肘郤肜胣肀든肴਍††瑳汹⁥⁏楦汬⌺搰搰搰猬牴歯㩥攣㐹㘵ⰰ潣潬㩲攣㐹㘵ര꣠肀胦肀든肴਍趨듢肴듢肴든඀ഊ꣠肌賢肀吠敨倠潲汢浥圠⁥潓癬൥꣠肴든඀㸊⨠吪敨倠牡摡硯漠⁦桃楯散椠⁮牔癡汥倠慬湮湩⹧⨪趨룣肴든඀㸊吠慲敶敬獲琠摯祡映捡⁥〱‫慴獢漠数⁮楳畭瑬湡潥獵祬 胢肠볦肐铦肰胢肄鳦肜裧肔鳦肄郧肼裧肌냢肀鳧肔蓦肐ꃦ肔裧肀賧肤郧肔賧肰胢肌铧肈裧肔룦肌ꓧ肀賦肼룦肘铦肈郧肔裧肌냢肀裧肔飧肤铦肜胢肀냦肄郧肘볦肈듦肌냢肀듦肄胧肀郧肼볦肰賧肸胢肈ꓧ肀郧肠铦肀郧肤듦肔胢肐ꃦ肔ꓧ肜飧肔胢肜蓦肐ꃦ肔裧肔郦肀郧肠铦肀郦肄郧肄냢肀郦肔賦肤賧肤볦肸胢肘蓦肐ꓦ肜铧肔胢肠蓦肌胢肌铦肐胢肤룦肸든肴਍趨꣢肨볤肔裧肀賧肼냦肔郧肤볦肸꣣肨꣢肀蓤肀賧肤룦肜냦肔胢肌볦肸飧肔裧肌蓦肐ꓦ肼룦肄냦肀ꓦ肸郧肔裧肘蓦肌铦肀裦肄賦肬铦肐胢肈ꓧ肀꣢肨蓦肔郧肼룦肼듦肼铧肌胢肄ꓤ肀蓦肜铦肸郧肌꣢肨胢肐ꃦ肄郧肀볦肈賦肠铦肌郧肈蓦肐铦肀裧肔蓦肰듢肐ꓦ肴铦肀郧肼볦肰胢肌蓦肰냦肌냢肀賧肤룦肐ꃦ肔賧肤꣧肔胢肐蓦肐蓦肀飦肈볦肴胢肴铧肰郧肤胧肰铦肀蓤肀ꓤ肌냢肀蓦肸郦肀郦肔냦肤飧肔裧肀賦肼듦肀냦肔郧肔냢肀郦肄郧肄듢肐裧肤飧肔룦肀郧肈蓦肘铦肰胢肀냦肄룦肌胢 湩汣摵湩⁧敷瑡敨⁲潦敲慣瑳ⱳ戠摵敧獴椠⁮潹牵挠牵敲据ⱹ爠獥慴牵湡⁴敲潣浭湥慤楴湯⁳楷桴爠瑡湩獧‬湡⁤湡椠瑮牥捡楴敶洠灡眠瑩⁨癥牥⁹潬慣楴湯瀠湩敮⹤趨든肴਍桔獩椠湳琧愠挠慨扴瑯眠慲灰牥‮瑉猧愠⨠洪汵楴琭潯⁬条湥楴⁣潷歲汦睯⨪戠極瑬漠⁮⨪慌杮片灡❨⁳敒捁⁴慰瑴牥⩮‪肀鳧肠铦肈铦肀郧肠铦肀蓤肤胢肐铦肌ꓦ肐铦肌胢肜ꃦ肤賦肠胢肐볦肼냦肌胢肐볦肀賦肄냦肰냢肀ꓦ肸胢肜ꃦ肄郧肀볦肈郦肔裧肰胢肄룦肐胢肠볦肜胢肐볦肀賦肼듦肈ꓦ肸铦肀郧肠铦肤裧肀볦肔郧肀铧肐賧肀ꓦ肸郧肼胢肄胢肌볦肠铦肈铦肸郧肀胧肰蓦肸룢肴든඀ഊ꣠肴듢肴든肴਍趨賢肌胢 敋⁹敆瑡牵獥趨든肴਍琼扡敬ാ꣠肰郧肈룣肴든඀㰊摴眠摩桴∽〵∥ാ꣠肴든඀⌊⌣肼볡Ɓ䰠湯ⵧ敔浲䴠浥牯൹꣠肀铦肈賧肤賧肐铦肸郧肀铧肌铦肈胢肀裧肼飦肤냦肤룦肜胢肀볦肜铦肈铦肐胢肈ꓧ肀꣢肨賥肄냤肤郧肔胢肬胢肌蓥肰蓤肰賦肠铦肴ꓧ肨꣢肸胢肤볦肔裧肀胧肈铦肘铦肈铦肸賦肔賧肀ꃢ肈铧肐鳦肔郧肀賧肐ꓧ肰铦肰胢肐ꓦ肔郧肄裧肤胢肸铦肔郦肌냢肀郧肈蓦肘铦肰胢肀蓦肌铦肤胢肄裧肔胢肌郧肼裧肔郦肀蓦肸郦肀꣢肨郦肤룦肄듦肤賦肄냦肰ꓧ肀ꓦ肸꣦肔賦肐铦肐꣢肨胢肤룦肐볦肀郧肠铦肀냤肰들肜賧肀賧肤賧肐铦肴胢肀裧肼듦肀郧肀攠敶祲瀠慬⁮獩瀠牥潳慮楬敳⹤趨든肴਍⼼摴ാ꣠肰郧肐胢肜ꓦ肐郧肠듣肈铣肀铢肈룣肴든඀ഊ꣠肌賢肌胢 䤠瑮牥捡楴敶䴠灡楰杮趨꣢肨냤肔蓦肘냦肔郧肸꣦肌꣢肨胢肜ꓦ肐ꃦ肀郦肄裧肬胢肌蓤肈郥肼胢肐ꓦ肰铦肌胢肄룦肐胢肜볦肰郦肴郧肠铦肴铦肐胢肴蓦肈곦肔裧肌룢肀郥肠铦肀蓤肤胢肈铦肌胧肼룦肌铦肀ꓦ肌胢肀蓦肈賧肔郦肀飦肼裧肀賦肼볦肈郦肤룦肄郧肔賧肀ꓦ肸胢肈铦肄냦肴郧肤듦肔냢肀蓦肸郦肀胧肤룦肌胢肄裧肔胢肨꣢肄铧肐볦肴蓦肐ꓦ肌蓦肰냦肤胢肐裧肼胧肀铦肐꣢肨胢肼룦肀郧肠铦肀듦肄胧肸胢肸蓦肘ꓧ肴郧肠铦肴铦肐胢肀볦肀铧肀賧肀듦肄郧肌ꃦ肀郧肠铦肀裦肈蓦肸郦肸든肴਍趨냣肼郧肐룣肴든඀㰊琯㹲趨냣肐裧肸든肴਍琼⁤楷瑤㵨㔢┰㸢趨든肴਍⌣‣肀냤肤鳦肠郧肸ꓦ肸鳦肴飤肄賧肐胢肤룦肘铦肈铦肸賦肔든肴਍潐敷敲⁤祢⨠䜪潲ⁱ汃畯⩤‪畲湮湩⁧⨪敍慴猧䰠慬慭㌠㌮㜭䈰嘠牥慳楴敬⨪‮畓ⵢ敳潣摮琠歯湥朠湥牥瑡潩⁮楷桴琠敨焠慵楬祴漠⁦⁡〷⁂慰慲敭整⁲潭敤⹬丠⁯假⁕敲畱物摥漠⁮潹牵攠摮മ꣠肴든඀㰊琯㹤趨냣肐郦肀鳧肤郦肐ꃦ肴裢肔胣肔裢肸든肴਍趨賢肌賢肀䘠湩湡楣污䐠獡扨慯摲趨裥肔蓦肰듢肐ꓦ肴铦肀賦肔裧肈铦肸賦肤胢肌볦肸飧肔裧肌ꓦ肼룦肀飧肤蓦肀郧肠铦肀꣢肨飤肈蓦肸곦肘铧肈郧肔裧肀蓤肀ꓤ肨꣢肀곢肀蓦肀胧肈铦肌ꓦ肌ꓦ肼룦肀賦肄냦肌铧肰蓦肐볦肈胢肜ꓦ肐ꃦ肀郧肄ꃧ肰胢肐ꓦ肀냢肀蓦肸郦肀胧肔裧肌铦肸郧肄鳦肔胢肐볦肼냦肌룢肀賤肼듦肀냦肔郧肔胢肌볦肌郧肀裦肈铦肄곦肐볦肜룦肌胢肤룦肀ꓧ肼铧肈胢肀裧肔飦肔裧肈铦肐胢肌铧肈裧肔룦肌ꓧ肸든肴਍趨냣肼郧肐룣肴든඀㰊琯㹲趨냣肐裧肸든肴਍琼⁤楷瑤㵨㔢┰㸢趨든肴਍⌣‣볥ƀ䰠癩⁥敗瑡敨⁲湉整汬杩湥散趨꣢肨볤肀铦肸鳥肔蓦肐ꃦ肔裧肴蓦肀꣢肨胢肤룦肐铦肜裧肄郧肤볦肸胢肘볦肈胢肌铧肈裧肔룦肐胢肌볦肸郦肤郧肤볦肸賧肀蓦肸郦肀铣肴郦肄ꓧ肀飦肼裧肔賦肄賧肐賧肸胢肐ꃦ肔胢肄鳦肔룦肐胢肄铧肐볦肴蓦肐ꓦ肌蓦肰냦肤胢肌蓦肰냦肌胢肜铦肄郧肠铦肈胢肐볦肼냦肌胢肄룦肐胢肘蓦肌郧肼裧肌胢肌볦肸郦肤郧肤볦肸賧肀ꓦ肸郧肼胢肤郧肤룦肔裧肄裧肤胢肈铦肌볦肴듦肔룦肐蓦肐ꓦ肼룦肌룢肴든඀ഊ꣠肰볢肐郦肸든肴਍琼⁤楷瑤㵨㔢┰㸢趨든肴਍⌣‣볥ƀ胢肀郤肘胢肔ꃧ肀볦肈郧肴든඀伊敮挭楬正攠灸牯⁴景愠祮䄠ⵉ敧敮慲整⁤汰湡琠⁯⁡⨪牢湡敤Ɽ瀠楲瑮爭慥祤倠䙄⨪眠瑩⁨慎祶⬠䜠汯⁤瑳汹湩Ⱨ猠牴捵畴敲⁤慴汢獥‬湡⁤⁡牰景獥楳湯污栠慥敤⽲潦瑯牥‮潐敷敲⁤祢怠桸浴㉬摰恦മ꣠肴든඀㰊琯㹤趨냣肼郧肈룣肴든඀㰊牴ാ꣠肰郧肐胢肜ꓦ肐郧肠듣肈铣肀铢肈룣肴든඀ഊ꣠肌賢肌胢蓣膀賥肴蓦肈郧肀胥肰蓦肌铦肀郤肤賧肌볦肘铦肈ꓧ肴든඀⨊䜪潯汧⁥汐捡獥䄠䥐⨪椠瑮来慲楴湯爠瑥牵楮杮爠捩⁨慤慴›慲楴杮ⱳ爠癥敩⁷潣湵獴‬潣牯楤慮整ⱳ琠灹獥‬湡⁤潴⁰敲楶睥猠楮灰瑥⹳吠敨愠敧瑮甠敳⁳潢桴琠硥⁴敳牡档愠摮搠瑥楡⁬湥灤楯瑮⹳趨든肴਍⼼摴ാ꣠肰郧肐胢肜ꓦ肐郧肠듣肈铣肀铢肈룣肴든඀ഊ꣠肌賢肌胢 牐浥畩⁭䥕唯൘꣠肨꣢肜냦肄賧肌듦肼裧肀ꃦ肤賧肴꣢肨胢肐铦肌ꓦ肜룦肀鳧肤郧肠胢肜賥肄胥肀蓦肸ꓦ肴蓦肐ꓦ肼룦肌냢肀胧肄裧肐ꓦ肌냦肔胢肌蓦肸飧肄賧肀裦肄賦肬鳦肈볦肔룦肐냢肀郥肄ꓦ肰鳧肤룦肐胢肌賥肌냢肀裧肔賧肀볦肸賧肤飧肔胢肰蓦肤볦肔郧肰胢肄룦肐胢肄胢肘냦肼蓦肐ꓦ肸鳦肀賤肐蓤肸胢肐铦肌ꓦ肜룦肔郦肀郧肼胢肘铦肔냦肀냦肤곦肔胢肄胢肰铧肠铧肈ꓧ肀賦肼룦肌ꓦ肔裧肜铦肀賧肔裧肘ꓦ肌铦肸든肴਍趨냣肼郧肐룣肴든඀㰊琯㹲趨냣肼郧肄裦肰铦肸든肴਍趨듢肴듢肴든඀ഊ꣠肌賢肀肼胢肐铦肌ꃦ肀賥肐蓦肌곦肴든඀ഊ꣠肰郧肄裦肰铦肀蓦肰ꓦ肜룦肴裢肌铦肸郧肔裧肈룣肴든඀㰊牴ാ꣠肰郧肠룣肌蓦肐铦肜볦肈ꓧ肰볢肐ꃦ肸든肴਍琼㹨敔档潮潬祧⼼桴ാ꣠肰볢肐裧肸든肴਍琼㹲趨냣肐郦肸냣肌郧肈볦肸鳦肸䰠䵌⼼瑳潲杮㰾琯㹤趨냣肐郦肸냣肤듦肜胢肌裧肌듣肈ꃦ肐郧肀賧肨볢肼ꓦ肴鳦肸賧肠ꓦ肔냦肐賧肸ꓦ肼볢肈蓦肐鳦肔볢肜裧肼蓧肴냤肰蓦肴蓦肼賣肸賣肴듢肜胣肈듢肔ꓣ肄铤肘賣肼賧肐ꓧ肰铦肴飦肰蓦肐듢肌蓧肔蓦肈铦肘냦肼鳦肼듣肴铦肐蓦肈볢肸胢肰ꓦ肴鳦肀賧肈賦肴裢肠郧肐胧肌꣣肼볢肤듦肜룢肌ꃦ肤铦肰郦肌룢肤볦肼裦肄郦肜铦肼냤肄룦肜賤肠蓦肤룦肴胣肸賣肴蓣肌賣肌賣肌볣肌郧肤냦肔듣肘냦肄郧肴賧肄铧肄裧肔飢肰볦肜볦肴賦肠蓦肤룦肰ꓦ肸곦肈볢肸냣肼郧肐룣肴든඀㰊琯㹲趨냣肐裧肸든肴਍琼㹤猼牴湯㹧볥膼 杁湥⁴牆浡睥牯㱫猯牴湯㹧⼼摴ാ꣠肰郧肐룣肰ꓦ肴鳦肀賧肈賦肴裢肠郧肐胧肌꣣肼볢肤듦肜룢肌ꃦ肤铦肰郦肌룢肤볦肼裦肄郦肜铦肼냤肄룦肜鳤肈蓦肀ꃦ肴裥肔蓤肌郧肼蓤肜铦肸郧肴飤肘飣肘胣肀볣肌郧肤냦肔듣肘냦肄郧肴賧肄铧肄裧肔裢肼룣肀냣肤듦肜胢肌裧肌듣肈ꃦ肐郧肀賧肨볢肼ꓦ肴鳦肸賧肠ꓦ肔냦肐賧肸ꓦ肼볢肈蓦肐鳦肔볢肐볦肼냦肼裤肤룦肐ꓦ肸鳦肴ꃣ肼郥肼볦肰賧肴郣肌蓤肘铣肀볣肌郧肤냦肔듣肘냦肄郧肴賧肄铧肄裧肔裢肼룣肰볢肐郦肸든肴਍⼼牴ാ꣠肰郧肈룣肴든඀㰊摴㰾瑳潲杮>胢肈蓦肌곦肔룦肐냣肼賧肐裧肼룦肜룣肰볢肐郦肸든肴਍琼㹤椼杭猠捲∽瑨灴㩳⼯浩⹧桳敩摬⹳潩戯摡敧䘯獡䅴䥐〭ㄮ〱〭㤰㠶㼸瑳汹㵥汦瑡猭畱牡♥潬潧昽獡慴楰氦杯䍯汯牯眽楨整⼢‾椼杭猠捲∽瑨灴㩳⼯浩⹧桳敩摬⹳潩戯摡敧唯楶潣湲䄭䝓ⵉ異灲敬猿祴敬昽慬⵴煳慵敲⼢㰾琯㹤趨냣肼郧肈룣肴든඀㰊牴ാ꣠肰郧肐룣肰賧肐裧肼룦肜룣 牆湯整摮⼼瑳潲杮㰾琯㹤趨냣肐郦肸냣肤듦肜胢肌裧肌듣肈ꃦ肐郧肀賧肨볢肼ꓦ肴鳦肸賧肠ꓦ肔냦肐賧肸ꓦ肼볢肈蓦肐鳦肔볢肘냦肄賧肬듢肌룢肀듢肀胣肀胣肀胣肼賧肐ꓧ肰铦肴飦肰蓦肐듢肌蓧肔蓦肈铦肘냦肼鳦肼듣肘냦肄賧肬裢肼룣肀냣肤듦肜胢肌裧肌듣肈ꃦ肐郧肀賧肨볢肼ꓦ肴鳦肸賧肠ꓦ肔냦肐賧肸ꓦ肼볢肈蓦肐鳦肔볢肐蓦肤냦肜ꓦ肸郦肼賤肌賥肴賤肐룤肴胣肘裤肘郤肐볣肌郧肤냦肔듣肘냦肄郧肴賧肄铧肄裧肔飢肰볦肜볦肴郧肄ꓦ肰鳧肤룦肐賦肌賧肈볢肸胢肰ꓦ肴鳦肀賧肈賦肴裢肠郧肐胧肌꣣肼볢肤듦肜룢肌ꃦ肤铦肰郦肌룢肤볦肼裦肄郦肜铦肼鳤肌蓤肀듢肌룢肄裣肴ꃣ肠賤肔胣肈볣肌郧肤냦肔듣肘냦肄郧肴賧肄铧肄裧肔裢肼룣肰볢肐郦肸든肴਍⼼牴ാ꣠肰郧肈룣肴든඀㰊摴㰾瑳潲杮肼醕肀들肄胧肌냣肼賧肐裧肼룦肜룣肰볢肐郦肸든肴਍琼㹤椼杭猠捲∽瑨灴㩳⼯浩⹧桳敩摬⹳潩戯摡敧䰯慥汦瑥樮⵳⸱ⴹ㤱㤹〰猿祴敬昽慬⵴煳慵敲氦杯㵯敬晡敬≴㸯⼼摴ാ꣠肰볢肐裧肸든肴਍琼㹲趨냣肐郦肸냣肌郧肈볦肸鳦肸䄠䥐㱳猯牴湯㹧⼼摴ാ꣠肰郧肐룣肰ꓦ肴鳦肀賧肈賦肴裢肠郧肐胧肌꣣肼볢肤듦肜룢肌ꃦ肤铦肰郦肌룢肤볦肼裦肄郦肜铦肼볤肀铦肸鳥肔蓦肐ꃦ肔裧肴蓦肀듢肜铦肄郧肠铦肈듢肼裧肄룦肜铦肼賧肐ꓧ肰铦肴飦肰蓦肐듢肌蓧肔蓦肈铦肈볢肸胢肰ꓦ肴鳦肀賧肈賦肴裢肠郧肐胧肌꣣肼볢肤듦肜룢肌ꃦ肤铦肰郦肌룢肤볦肼裦肄郦肜铦肼鳤肼볦肜냦肔볥肀냦肄賦肔賧肴賥肔蓦肈賦肠듢肐裣肠铣肘郣肼賧肐ꓧ肰铦肴飦肰蓦肐듢肌蓧肔蓦肈铦肘냦肼鳦肼듣肜볦肼鳦肰铦肈볢肸胢肰ꓦ肴鳦肀賧肈賦肴裢肠郧肐胧肌꣣肼볢肤듦肜룢肌ꃦ肤铦肰郦肌룢肤볦肼裦肄郦肜铦肼飤肈蓦肸곦肘铧肈郧肔裧肴飤肠볥肈蓦肐铦肌듢肜裧肔铦肸볣肌郧肤냦肔듣肘냦肄郧肴賧肄铧肄裧肔裢肼룣肰볢肐郦肸든肴਍⼼牴ാ꣠肰郧肈룣肴든඀㰊摴㰾瑳潲杮肼肀郤肄郧肄裦肄賧肔냣肼賧肐裧肼룦肜룣肰볢肐郦肸든肴਍琼㹤椼杭猠捲∽瑨灴㩳⼯浩⹧桳敩摬⹳潩戯摡敧匯䱑瑩ⵥ兓䅌捬敨祭佟䵒〭㌰㕂㼷瑳汹㵥汦瑡猭畱牡♥潬潧猽汱瑩≥㸯⼼摴ാ꣠肰볢肐裧肸든肴਍琼㹲趨냣肐郦肸냣肌郧肈볦肸鳦肸倠䙄⼼瑳潲杮㰾琯㹤趨냣肐郦肸냣肤듦肜胢肌裧肌듣肈ꃦ肐郧肀賧肨볢肼ꓦ肴鳦肸賧肠ꓦ肔냦肐賧肸ꓦ肼볢肈蓦肐鳦肔볢肠ꃦ肐듦肰裣肀郦肘듢肈裧肄룦肐铦肐볥肔ꃧ肀볦肈郧肴郤肌蓣肐賣肌볣肌郧肤냦肔듣肘냦肄郧肴賧肄铧肄裧肔裢肼룣肰볢肐郦肸든肴਍⼼牴ാ꣠肰볢肐蓦肈냦肔룣肴든඀ഊ꣠肴듢肴든肴਍趨賢肌胢鿄胢肄鳦肔룦肐ꓦ肌胢肜볦肈곦肘냦肼鳧肀䠠睯䤠⁴潗歲൳꣠肴든඀吊楨⁳牰橯捥⁴獵獥⨠䰪湡䝧慲桰猧删䅥瑣⠠敒獡湯湩⁧‫捁楴杮 慰瑴牥⩮‪潴挠敲瑡⁥⁡牴汵⁹畡潴潮潭獵愠敧瑮‮湕楬敫猠浩汰⁥牰浯瑰挭慨湩愠灰楬慣楴湯ⱳ琠敨愠敧瑮ഺ꣠肴든඀ㄊ‮⨪敒獡湯⩳‪扡畯⁴桴⁥獵牥猧爠煥敵瑳愠摮搠捥摩獥眠楨档琠潯獬琠⁯慣汬趨裣肸胢肨꣢肄賦肐賧肨꣢肀裦肤胢肔ꃧ肔賦肔郧肤룦肜胢肐볦肼냦肀賦肄냦肰賧肀ꃢ肜铦肄郧肠铦肈냢肀胧肰蓦肌铦肌냢肀賦肔裧肈铦肸賦肤냢肀賦肄냦肌铧肰蓦肐볦肈ꓢ肴든඀㌊‮⨪扏敳癲獥⨪琠敨爠獥汵獴愠摮搠捥摩獥眠敨桴牥琠⁯慣汬洠牯⁥潴汯⁳牯爠獥潰摮趨郣肸胢肨꣢肤郧肔裧肄郧肔賧肨꣢肀铧肸郧肤냦肀ꓦ肐胢肠蓦肌胢肜蓦肐ꃦ肔裧肔郦肀铦肸볦肔鳦肠胢肐蓦肐蓦肀飦肼裧肀蓦肀賦肼듦肀裧肔ꃦ肔룦肌ꓦ肘铦肀胧肰蓦肸든肴਍趨胦肀胦肴든඀唊敳㩲∠汐湡㔠搠祡⁳湩倠牡獩映牯␠〲〰ഢ꣠肀胢ഀ꣠肀胢듥ꖴ든඀
-ഀ꣠ 肼볡Ɓ䰠湡䝧慲桰删䅥瑣䄠敧瑮⠠汌浡⁡⸳ⴳ〷⥂††† 든肴਍肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢ഀ꣠ 匠整⁰㨱∠⁉敮摥眠慥桴牥映牯倠牡獩•††††††† 든肴਍肀胢 慣汬⁳敧彴畣牲湥彴敷瑡敨⡲倢牡獩⤢†††††††肴든඀
-胢肀挠污獬朠瑥睟慥桴牥晟牯捥獡⡴倢牡獩Ⱒ㔠 †††† 든肴਍肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢ഀ꣠ 匠整⁰㨲∠⁉敮摥栠瑯汥⁳湡⁤敲瑳畡慲瑮≳††††††肴든඀
-胢肀挠污獬猠慥捲彨汰捡獥∨潨整獬Ⱒ∠慐楲≳ †††† 든肴਍肀胢 慣汬⁳敳牡档灟慬散⡳爢獥慴牵湡獴Ⱒ∠慐楲≳ ††肴든඀
-胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀趨†瑓灥㌠›䤢渠敥⁤潴挠湯敶瑲␠〲〰琠⁯啅≒††††† 든肴਍肀胢 慣汬⁳潣癮牥彴畣牲湥祣㈨〰ⰰ∠单≄‬䔢剕⤢†††肴든඀
-胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀趨†瑓灥㐠›䰢瑥洠⁥慣捬汵瑡⁥数⵲慤⁹畢杤瑥•†††† 든肴਍肀胢 慣汬⁳慣捬汵瑡⡥搢癩摩≥‬㠱〵‬⤵†††††††肴든඀
-胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀趨†瑓灥㔠›祓瑮敨楳敳愠汬搠瑡⁡湩潴愠瀠慬⁮††††† 든肴਍肀胢 敒畴湲⁳潣灭敬整䴠牡摫睯⁮瑩湩牥牡⁹††††††肴든඀
-胣膴든඀  든肴਍†鶕趨䐠祡戭⵹慤⁹瑩湩牥牡⁹楷桴眠慥桴牥‬畢杤瑥ⱳ洠灡瀠湩ⱳ☠倠䙄攠灸牯൴꣠肀胦肀든肴਍趨賢肌賢肀鳤肔蓦肈郦肀裥肄ꓦ肰賧肀飢肀铤肈裧肼裧肀裥肔賧肤냦肤铦肸賦肔든肴਍趨듢肀꣢肨賥肤賧肐铦肴胢肀裧肼듦肀郧肀鳤肔蓦肈郦肨꣢肨胢肐ꃦ肔胢肌ꓧ肌郧肔듦肀胧肈볦肴胧肐胢肤賧肀蓦肰鳧肄ꓧ肌胢肤룦肨铦肌郧肔郦肀蓦肌胢肐ꃦ肔胢肘ꓦ肈賧肐胢肴铦肌賧肄鳦肔냢肀裧肔鳦肄裧肐냦肔賧肌胢肼飦肀賧肐蓦肐铦肀ꃦ肤賧肐볦肈ꓧ肴든඀ⴊ⨠吪潯⁬慆汩牵⁥畇牡㩤⨪䔠灭祴漠⁲习湯恥琠潯⁬敲灳湯敳⁳牡⁥敲汰捡摥眠瑩⁨敤捳楲瑰癩⁥牥潲⁲瑳楲杮൳꣠肴胢肨꣢肀裧肔飦肔裧肔룦肌铦肀ꓤ肸꣦肔賦肐ꓦ肼룦肨꣢肨胢肔賧肔裧肀胧肈铦肘铦肈铦肸賦肔賧肀飦肈볦肴胢肌蓥肰ꓦ肐铦肀蓦肈铦肀郦肤룦肄듦肤賦肄냦肰ꓧ肀蓦肀胧肔룦肐铦肐胢肐볦肀郧肠铦肀賧肤賧肐铦肴胢肀裧肼듦肀郧肀胧肔裧肀賧肔賧肌ꓦ肼룦肴든඀ⴊ⨠䜪慲散畦⁬敄牧摡瑡潩㩮⨪䤠⁦⁡潴汯映楡獬⠠偁⁉潤湷‬楴敭畯⥴‬桴⁥条湥⁴捡湫睯敬杤獥椠⁴湡⁤牰捯敥獤眠瑩⁨癡楡慬汢⁥慤慴趨든肴਍ⴭഭ꣠肴든඀⌊‣볥ƀ胢肀裧肼꣦肔賦肐胢肌郧肈铧肌郧肔裧肔든肴਍趨胦肀胦肴든඀肼쐁₞楡琭慲敶⵬汰湡敮⽲趨 볥ƀ胢肄鳦肔룦肐賧肼든肴਍肀胢肀 条湥楴彣潷歲汦睯瀮⁹††‣慌杮片灡⁨敒捁⁴条湥⁴䜨慲桰畂汩敤⥲趨 볥ƀ琠潯獬യ꣠ †胢肌蓦肰賦肔냦肄郧肼裧肼郧肼볦肰룢肀ꓧ肀胢肀胢肀胢肌胢肈铧肐鳦肔郧肀蓦肈ꓦ肐ꃦ肴铦肐ꓦ肌胢肐볦肼냦肌든肴਍肀胢肀 畣牲湥祣损湯敶獲潩⹮祰†‣畃牲湥祣攠捸慨杮⁥潴汯趨† 肀胧肰蓦肌铦肼賧肔蓦肈賦肠룢肀ꓧ肀胢肀胢肀胢肀胢肀賢肀鳤肼볦肜냦肔胢肀냦肄賦肔賧肀賧肔蓦肈賦肠胢肬胢肐铦肐蓦肤냦肌든肴਍肀胢肀 敷瑡敨彲湩潦浲瑡潩⹮祰†‣敗瑡敨⁲畣牲湥⁴‫潦敲慣瑳琠潯獬趨  瑵汩⽳趨† 肀賦肄냦肌铧肰蓦肐볦肈룢肀ꓧ肀胢肀胢肀胢肀胢肀胢肀賢肀賤肄냦肌铧肰蓦肐볦肈胢肜ꓦ肐ꃦ肀飦肰볦肄郧肴賧肄飦肔胢肄裧肤郧肠듦肔郧肤賦肴든඀
-胢肀胢挠牵敲据役潣癮牥整⹲祰†⌠䘠慲歮畦瑲牥䄠䥐眠慲灰牥趨† 肀胧肰蓦肌铦肼ꓦ肸飦肼룢肀ꓧ肀胢肀胢肀胢肀胢肀胢肀賢肀鳤肼볦肜냦肔胢肀냦肄賦肔賧肀蓤肀ꓤ肀ꃢ肔룦肈ꓦ肌ꃦ肔郦肤든肴਍肀胢肀 敷瑡敨彲湩潦瀮⁹††††‣灏湥敗瑡敨䵲灡䄠䥐眠慲灰牥趨† 肀胧肐飦肼鳦肔룦肔裧肄郧肼裧肸胧肤胢肀胢肀胢肀胢肀賢肀들肄裧肬郦肼鳧肸胢 牂湡敤⁤䑐െ꣠ †胢肴볦肐铦肰볥肰볦肄郦肔裧肸胧肤胢肀胢肀胢肀胢肀胢肌胢肰냤肴胢肀裧肼飧肤郦肔裧肀飦肄賦肐볦肈ꓧ肴든඀
-胢肀胢挠湯楦彧潬摡牥瀮⁹†††⌠夠䵁⁌潣普杩爠慥敤൲꣠ †胢肌蓦肘铦肼郦肼賦肔듦肔룦肐룢肀ꓧ肀胢肀胢肀胢肀胢肌胢肐볦肌铧肴铦肸郧肀ꓤ肼볤肀铧肐ꓦ肰ꓦ肐ꓦ肔賧肴든඀
-肀映慬歳慟灰യ꣠ †胢肄胧肀룢肀ꓧ肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肌胢肘냦肄賧肬胢肈볦肔郧肔賧肀ꃢ肄铧肔裧肤냢肀胧肈铦肘賧肰胢肀郤肘胢肔ꃧ肀볦肈郧肤든肴਍肀胢肀 整灭慬整⽳趨† 胢肀胢椠摮硥栮浴⁬††††⌠䜠慬獳潭灲楨浳唠⁉‫敌晡敬⁴慭൰꣠ †胢肌郧肄郧肤賦肼든肴਍肀胢肀胢肀胢肀 獣⽳瑳汹⹥獣⁳†††‣慎祶⬠䜠汯⁤敤楳湧猠獹整൭꣠ †††胢肨賧肼듦肄ꓦ肸룢肨賧肀胢肀胢肀胢肀胢肀胢肌胢肜賥肄胥肀蓦肸ꓦ肴蓦肐ꓦ肼룦肌胢肬胢肰铦肄飦肰铦肐胢肬胢肌ꃦ肄郧肴든඀
-肀瀠潲灭彴楬牢牡⽹趨† 肀胧肈볦肴胧肐룢肀ꓧ肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀賢肀賥肤賥肐铤肴볥肀裥肼들肀郥肀飦肼裧肀郧肠铦肀蓤肤胢肄鳦肔룦肐든肴਍胢胢肌볦肸飦肤鳦肼든肴਍肀胢肀 潣普杩礮浡⁬††††††‣䱌⁍潭敤⁬潣普杩牵瑡潩൮꣠肼肀듦肼郦肔냦肌룢肀ꓧ肀胢肀胢肀胢肀胢肀胢肀胢肀胢肀胢肌胢肌蓥肰蓤肰賦肠铦肴ꓧ肀볤肈들肀곢肀胥肈铦肘铦肈铦肸賦肔들肄룦肄鳦肔裧肴든඀
-肀洠楡⹮祰†††††††††‣慆瑳偁⁉灡汰捩瑡潩⁮䄨䥐猠牥敶⥲趨 볥ƀ愠灰瀮⁹†††††††††‣瑓敲浡楬⁴湩整晲捡⁥愨瑬牥慮楴敶ഩ꣠肼肀裧肔蓧肔ꓦ肈铦肴铦肸郧肌룢肐ꃧ肐든肴਍胢 攮癮攮慸灭敬趨 볥ƀ胢肈铤肄郤肴铤肸듦肐든肴਍恠ൠ꣠肴든඀ⴊⴭ趨든肴਍⌣肼肀ꓤ肸賧肐蓦肰냦肄郧肤볦肸胢肘胢肌铦肐铧肀든肴਍趨賢肌賢肀胥肈铦肈铦肄铧肤賧肤郧肔賧肴든඀ഊ꣠肴胢肀ꓧ肐ꃦ肼룦肀賣肸蓣肄곢肴든඀ⴊ䄠嬠片煯䄠䥐䬠祥⡝瑨灴㩳⼯潣獮汯⹥牧煯挮浯⤯⠠牦敥琠敩⁲癡楡慬汢⥥趨듢肀蓤肸胢肬볤肀铦肸鳥肔蓦肐ꃦ肔裧肴蓦肀胢肄胥肤胢肬铦肤듥肠ꃦ肐郧肀賧肨볢肼볦肀铦肸鳧肔蓦肐ꃦ肔裧肴蓦肀룢肼裧肜볢肄胧肤ꓢ肀ꃢ肘裧肔铦肀郧肤铦肈ꓢ肴든඀ⴊ䄠嬠潇杯敬倠慬散⁳偁⁉敋嵹栨瑴獰⼺搯癥汥灯牥⹳潧杯敬挮浯洯灡⽳潤畣敭瑮瑡潩⽮汰捡獥眯扥猭牥楶散 漨瑰潩慮⥬趨든肴਍⌣‣瑓灥ㄠ›汃湯⁥桴⁥敒潰楳潴祲趨든肴਍恠扠獡൨꣠肜ꓦ肐胢肌냦肼룦肔胢肠郧肐胧肌꣣肼볢肜ꓦ肐ꃦ肔裦肸賦肼듦肼들肔賧肐蓦肘蓦肬볦肌蓦肴蓦肸룦肼蓦肤듢肐裧肄飧肔냦肴胧肰蓦肸룦肔裧肸鳦肤郧肴든඀挊⁤楡琭慲敶⵬汰湡敮൲꣠肀胦肀든肴਍趨賢肌賢肀賥肐铦肀胢肈꣣肀賤肈铦肄郧肔胢肘胢肄賦肐ꓦ肘蓦肐铦肀飥肤裧肐铧肄냦肀铤肸飧肤裧肼룦肴铦肸郧肴든඀ഊ꣠肀胦肀裦肄賧肠든肴਍祰桴湯ⴠ⁭敶癮瘠湥൶꣠肴든඀⌊圠湩潤獷趨飧肔룦肘냥肌賦肈ꓦ肀郧肌냥肄賦肐ꓦ肘蓦肐铦肴든඀ഊ꣠肌胢肴蓦肌볤肌胢肼胢肰ꓦ肸铧肠든肴਍潳牵散瘠湥⽶楢⽮捡楴慶整趨胦肀胦肴든඀ഊ꣠肌賢肌胢肌郧肔胧肀賣肨胢肤룦肌郧肄냦肰胢肐铦肀铦肸郦肔룦肌ꓦ肔賧肴든඀ഊ꣠肀胦肀裦肄賧肠든肴਍楰⁰湩瑳污⁬爭爠煥極敲敭瑮⹳硴൴꣠肀胦肀든肴਍趨賢肌賢肀賥肐铦肀胢肐꣣肀賤肼룦肘ꓦ肜铧肈铦肀铤肸飧肤裧肼룦肴铦肸郧肀飥肄裧肤蓦肈냦肔賧肴든඀ഊ꣠肀胦肀裦肄賧肠든肴਍灣⸠湥⹶硥浡汰⁥攮癮趨胦肀胦肴든඀ഊ꣠肔郦肤郧肀胦肸铦肸飧肀胢肜ꓦ肐ꃦ肀ꓧ肼铧肈胢肄胥肤胢肬铦肤賧肨든肴਍趨胦肀胦肔룦肘든肴਍則兏䅟䥐䭟奅朽歳祟畯彲牧煯慟楰歟祥桟牥൥꣠肼胥肔룤肜铤肄郥肠铤肈들肄胥肼蓤肀ꓤ肼곤肔ꓥ肴ꓧ肼铧肈볥肼胧肔룦肜铦肄郧肠铦肈듦肄胧肼곦肔ꓧ肼ꃦ肔裧肔든肴਍佇䝏䕌偟䅌䕃当偁彉䕋㵙潹牵束潯汧彥汰捡獥歟祥桟牥⁥⌠漠瑰潩慮൬꣠肀胦肀든肴਍趨賢肌賢肀賥肐铦肀胢肔꣣肀냤肄铧肸賦肠胢肐ꃦ肔胢肄胧肀냦肤賦肄郧肤볦肸든肴਍趨볤肀铦肸胢肨꣢肐鳧肼胢肐铦肈듦肤룦肄냦肌꣢肨胢肄룦肐胢肈铧肸꣣肴든඀ഊ꣠肀胦肀裦肄賧肠든肴਍‣敔浲湩污ㄠ 胢肘蓦肌郧肄胥肤胢肈蓦肌곦肔룦肐胢肠胧肼裧肐胢肠胣肀胣肤든肴਍癵捩牯⁮慭湩愺灰ⴠ爭汥慯⁤ⴭ潰瑲㠠〰ര꣠肀胦肀든肴਍趨胦肀胦肈蓦肌ꃦ肴든඀⌊吠牥業慮⁬′肀飤肰蓦肌곦肀飤肈볦肸郧肔룦肐胢肠胧肼裧肐胢肔胣肀胣肤든肴਍祰桴湯映慬歳慟灰愯灰瀮൹꣠肀胦肀든肴਍趨賢肌賢肀賥肐铦肀胢肘꣣肀볤肀铦肸胢肤룦肀裤肈볦肜賧肔裧肴든඀ഊ꣠肀胦肀든肴਍볥ƀ胢肠郧肐胧肨볢肼냦肼賦肄냦肠볦肌郧肨铣肀胣肀든肴਍恠ൠ꣠肴든඀㸊肼肀꣢肨郥肤胧肨꣢肨胢肌볦肴胧肰铦肠胢肐裧肤胧肀胧肰蓦肸賧肀ꃢ肴铧肰郧肤듢肐蓦肤냢肀듦肔냦肐ꓦ肴賦肤郧肤ꓢ肀듦肄ꓧ肀郧肄곦肔胢肄″業畮整⁳獡琠敨愠敧瑮挠污獬洠汵楴汰⁥潴汯⁳敳畱湥楴污祬മ꣠肴든඀ⴊⴭ趨든肴਍⌣肼肀铥肌蓦肜铦肀铤肠蓦肴胧肰铦肌든肴਍趨냧肀蓥肔铦肈ꓧ肀냧肀鳥肠蓦肐胢肐ꃦ肔胢肄鳦肔룦肐胢肐볦肔賧肀냧肴든඀簊ⴭⴭⴭ簭ⴭⴭⴭⴭⴭⴭⴭⴭⴭ簭趨냧肀胦肈胥肰蓦肸胢肔胢肐蓦肤賧肀ꓦ肸胢肀蓦肈ꓦ肌胢肘볦肈胢肐裣肀胣肀裢肀胢肰胢肜铦肄郧肠铦肈胢肬胢肠볦肐铦肰賧肀곢肀裥肔賧肐蓦肔裧肄룦肐賧肀곢肀賤肔裧肈铦肸賦肤胢肌볦肸飧肔裧肌ꓦ肼룦肀곢肀裤肔郦肜铦肐胢肈裧肔蓦肬郦肼鳧肸胢肰든肴਍⁼≠桗瑡猧琠敨眠慥桴牥椠⁮潔祫㽯怢簠䌠污獬传数坮慥桴牥慍⁰偁⁉潦⁲畣牲湥⁴潣摮瑩潩獮簠趨냧肀胦肈裤肔賧肐胢肈铦肌郧肄铧肈蓦肸郧肌胢肤룦肀裥肼듦肔裢肀胢肰胢肌蓦肰냦肌胢肜볦肼鳦肰铦肀胥肰蓦肌铦肌胢肄胥肤胢肜ꓦ肐ꃦ肀裧肄郧肤룦肜賧肀蓦肸郦肀賦肼볦肈郦肤룦肄郧肔賧肀냧肴든඀簊怠䌢湯敶瑲㔠〰唠䑓琠⁯啅≒⁠⁼慃汬⁳牆湡晫牵整⁲偁⁉潦⁲楬敶攠捸慨杮⁥慲整⁳ർ꣠肴든඀ⴊⴭ趨든肴਍⌣肼醕肀飤肔郧肔裧肔胢肈볦肄郦肴蓦肀든肴਍趨냣肐蓦肈냦肔룣肴든඀㰊牴ാ꣠肰郧肐룣 猼牴湯㹧㉶ㄮ⼼瑳潲杮㰾琯㹤趨냣肐郦肸飥肼ꓦ肌铦肀蓤肤胢肤룦肐铦肜裧肄郧肤볦肸胢 汰湡琠楲獰瘠慩瘠楯散挠浯慭摮⁳獵湩⁧桗獩数㱲琯㹤趨냣肼郧肈룣肴든඀㰊牴ാ꣠肰郧肐룣铢₀猼牴湯㹧㍶〮⼼瑳潲杮㰾琯㹤趨냣肐郦肸들肼裦肤냦肔듢肘ꓦ肈賧肐胢肀鳥肄胢肜ꓦ肐ꃦ肀볦肘飦肰ꓦ肸铦肀賧肔胧肀볦肈郧肀蓦肸郦肀胧肔賧肠胢肸볦肐ꓦ肘ꓦ肌蓦肐ꓦ肼룦肌냣肼郧肐룣肴든඀㰊琯㹲趨냣肐裧肸든肴਍琼㹤볥ƀ뇄㰠瑳潲杮瘾⸴㰰猯牴湯㹧⼼摴ാ꣠肰郧肐룣肴铧肰郧肤듢肰蓦肸鳦肔蓦肜铦肀賧肔胧肀볦肈郧肀ꃢ肐裥肰胢肐铤肰胢肘裥肰胢肔賥肰胢肨蓤肤胢肜ꓦ肐ꃦ肀蓦肔郧肼듢肐铦肐铦肌郧肤볦肸냣肼郧肐룣肴든඀㰊琯㹲趨냣肐裧肸든肴਍琼㹤볥ƀ胢肰賧肐裧肼룦肜룣肘铣肸胣肰볢肌郧肈볦肸鳦肸냣肼郧肐룣肴든඀㰊摴䐾物捥⁴潢歯湩⁧湩整牧瑡潩⁮肀ꃦ肼郧肔냦肌냢肀飦肰ꓦ肜ꃦ肐賧肰胢肄룦肐胢肄賦肐ꓦ肘ꓦ肐ꓦ肔賧肰볢肐郦肸든肴਍⼼牴ാ꣠肰郧肈룣肴든඀㰊摴肼肀냣肌郧肈볦肸鳦肸飧肘룢肀냣肼賧肐裧肼룦肜룣肰볢肐郦肸든肴਍琼㹤潃汬扡牯瑡癩⁥牴灩瀠慬湮湩⁧肀賧肠蓦肈铦肀蓦肸郦肀賦肼듢肔郦肤郧肀胧肰蓦肸賧肀ꓦ肸胢肈铦肄냦肴郧肤듦肔냣肼郧肐룣肴든඀㰊琯㹲趨냣肐裧肸든肴਍琼㹤볥ƀ胢肰賧肐裧肼룦肜룣肘鳣肸胣肰볢肌郧肈볦肸鳦肸냣肼郧肐룣肴든඀㰊摴倾楲散瀠敲楤瑣潩⁮湥楧敮 胢肴냤肴胧肼鳧肔裧肔郦肀飦肄裧肔胢肘胢肠볦肐铦肰胢肌볦肌郧肀飦肼裧肔賦肄賧肐ꓦ肸鳦肰볢肐郦肸든肴਍⼼牴ാ꣠肰볢肐蓦肈냦肔룣肴든඀ഊ꣠肴듢肴든肴਍趨賢肌胢 潃瑮楲畢楴杮趨든肴਍潃瑮楲畢楴湯⁳牡⁥敷捬浯Ⅵ倠敬獡⁥敦汥映敲⁥潴猠扵業⁴⁡畐汬删煥敵瑳മ꣠肴든඀ㄊ‮潆歲琠敨爠灥獯瑩牯൹꣠肈룢肀賤肈铦肄郧肔胢肤볦肔裧肀飦肔蓦肐铧肈铦肀裦肈蓦肸賦肠胢肠胦肜ꓦ肐胢肌ꃦ肔賦肬볦肔郧肀듢肈胢肘铦肄郧肔裧肔볢肄듦肄꣧肤룦肜듢肘铦肄郧肔裧肔胦肤든肴਍⸳䌠浯業⁴潹牵挠慨杮獥⠠杠瑩挠浯業⁴洭✠摁⁤浡穡湩⁧敦瑡牵❥⥠趨郣肸胢肀铧肌ꃦ肀郧肼胢肐ꃦ肔胢肈裧肄룦肌ꃦ肀ꃢ肀鳦肤郧肀胧肔賧肠胢肼裧肤鳦肤룦肀飦肔蓦肐铧肈铦肼蓦肴蓦肨ꓦ肸鳦肴飦肔蓦肐铧肈铦肀ꓢ肴든඀㔊‮灏湥愠倠汵⁬敒畱獥൴꣠肴든඀ⴊⴭ趨든肴਍⌣肼肀냤肤賦肔룦肌铦肴든඀ഊ꣠肐ꃦ肤賧肀胧肈볦肨铦肌郧肀ꓦ肌胢肰ꓦ肌铦肸賧肔郦肀铧肸郦肔裧肀郧肠铦肀꣢肨들肤郥肀냤肤賦肔룦肌铦肨꣢肀猠敥琠敨嬠䥌䕃华嵅䰨䍉久䕓 楦敬映牯搠瑥楡獬മ꣠肴든඀ⴊⴭ趨든肴਍瀼愠楬湧∽散瑮牥㸢趨胢肀냣肤듦肜胢肌裧肌듣肈ꃦ肐郧肀賧肨볢肼裧肄鳧肸鳦肤郧肠铧肈铧肌铦肈賦肼룦肐铦肸郧肸賦肼듦肼蓦肸郦肈铦肄賧肈듦肼裧肔蓦肐듦肔볢肴蓦肌郧肔裧肼蓦肌賧肔郧肌볢肰ꓦ肸铦肌볢肈蓦肤룦肈볦肜룢肀룦肜裢肀蓦肰郧肴裢肐ꓦ肘ꓦ肐铦肈裢肀鳧肤郦肐ꃦ肴裢肄胣肀铢肈볢肸든肴਍⼼㹰趨든肴਍格″污杩㵮挢湥整≲肼肀裤肔ꓦ肰郧肀鳧肤郧肠胢肀蓦肌賧肤볦肸胢肈ꓧ肀냣肄胢肠裧肔飦肴裢肠郧肐胧肌꣣肼볢肜ꓦ肐ꃦ肔裦肸賦肼듦肼들肔賧肐蓦肘蓦肬볦肌蓦肴蓦肸룦肈룣肴铧肌郧肄飦肄胢肬볦肌蓦肴蓦肸냣肼蓦肸냣肼ꃦ肌룣肴든඀ഊ꣠肰胧肀蓦肰ꓦ肜룦肴裢肌铦肸郧肔裧肈룣肴든඀ 㰠浥䤾⁦桴獩瀠潲敪瑣栠汥数⁤潹Ⱶ挠湯楳敤⁲楧楶杮椠⁴⁡肀椠⁴敭湡⁳桴⁥潷汲Ⅴ⼼浥ാ꣠肰볢肀룣肴든඀ഊ꣠肰胧肀蓦肰ꓦ肜룦肴裢肌铦肸郧肔裧肈룣肴든඀ 㰠⁡牨晥∽瑨灴㩳⼯楧桴扵挮浯䴯獵慴慦潋慣慭湮㸢趨胢肀胢肀냣肤듦肜胢肌裧肌듣肈ꃦ肐郧肀賧肨볢肼ꓦ肴鳦肸賧肠ꓦ肔냦肐賧肸ꓦ肼볢肈蓦肐鳦肔볢肜ꓦ肐ꃤ肔裦肴들肔賧肐蓦肘蓦肬볦肌蓦肴蓦肸룦肴蓣肠蓣肜蓣肜볣肌郧肤냦肔듣肘볦肈듢肐ꃦ肔듢肈蓦肐鳦肔飢肰볦肜볦肴鳦肤郧肠铧肈裢肀蓦肰郧肴裢肜ꓦ肐ꃤ肔裦肈볢肸든肴਍†⼼㹡趨胢肀냣肄胢肠裧肔飦肴裢肠郧肐胧肌꣣肼볢肰ꓦ肸곦肔郦肤룦肸賦肼듦肼ꓦ肸볢肴铧肌郧肄飦肄곦肼賦肄듦肄룦肈룣肴든඀ †㰠浩⁧牳㵣栢瑴獰⼺椯杭献楨汥獤椮⽯慢杤⽥楌歮摥湉䴭獵慴慦䭟捯浡湡〭㙁䌶㼲瑳汹㵥潦⵲桴ⵥ慢杤♥潬潧氽湩敫楤≮愠瑬∽楌歮摥湉⼢ാ꣠肀胢肰볢肄룣肴든඀㰊瀯ാ꣠
+<p align="center">
+  <img src="https://img.icons8.com/3d-fluency/94/airplane-take-off.png" width="80" alt="Logo"/>
+</p>
+
+<h1 align="center">✈️ Agentic AI Travel Planner</h1>
+
+<p align="center">
+  <strong>A Multi-Agent, Tool-Augmented AI Travel Concierge — powered by LangGraph, Groq, and Real-Time APIs.</strong>
+</p>
+
+<p align="center">
+  <em>Solving the paradox of choice in travel planning with autonomous AI agents that research, calculate, and plan — so you don't have to.</em>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LangGraph-Agentic_AI-FF6F00?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangGraph"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Groq-Llama_3.3_70b-E91E63?style=for-the-badge&logo=meta&logoColor=white" alt="Groq"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Flask-Frontend-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MustafaKocamann"><img src="https://img.shields.io/github/stars/MustafaKocamann/ai-travel-planner?style=social" alt="Stars"/></a>
+  <a href="https://github.com/MustafaKocamann"><img src="https://img.shields.io/github/forks/MustafaKocamann/ai-travel-planner?style=social" alt="Forks"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
+</p>
+
+## 📸 Visual Preview
+
+<p align="center">
+  <img src="docs/dashboard_preview.gif" alt="Mustafa AI Travel Concierge — Dashboard Preview" width="90%"/>
+  <br/>
+  <em>🎬 The AI Concierge generating a 5-day Paris itinerary with live weather, map pins, and PDF export.</em>
+</p>
+
+---
+
+## 🏗️ System Architecture
+
+```mermaid
+graph TB
+    subgraph "🖥️ Frontend — Flask :5000"
+        A[🌐 Landing Page<br>GSAP + Tailwind + Glassmorphism] --> B[💬 Chat Interface<br>Markdown + Typing Indicator]
+        B --> C[🗺️ Leaflet.js Map<br>Auto Marker Plotting]
+        B --> D[📄 PDF Export<br>xhtml2pdf Branded Docs]
+        A --> E[⚙️ Preferences Modal<br>SQLite Persistence]
+    end
+
+    subgraph "⚡ Backend — FastAPI :8000"
+        F[🔀 API Router] --> G[🧠 LangGraph Agent<br>ReAct Loop]
+        F --> H[📦 Preference CRUD<br>SQLAlchemy ORM]
+        G --> I[🛠️ Tool Orchestrator]
+    end
+
+    subgraph "🛠️ Agent Tools"
+        I --> J[🌤️ OpenWeatherMap<br>Current + 5-Day Forecast]
+        I --> K[📍 Google Places<br>Search + Reviews + Coords]
+        I --> L[💱 Frankfurter API<br>Real-Time Exchange Rates]
+        I --> M[🧮 Calculator<br>Budget + Tax + Tips]
+    end
+
+    subgraph "💾 Persistence Layer"
+        N[(🗄️ SQLite Database)]
+        H --> N
+        G -->|Inject Preferences| N
+    end
+
+    subgraph "🤖 LLM Provider"
+        O[⚡ Groq Cloud<br>Llama 3.3-70B Versatile]
+    end
+
+    B -->|POST /query| F
+    E -->|POST /preferences| F
+    D -->|POST /export_pdf| F
+    G --> O
+    O --> G
+
+    style A fill:#001F3F,stroke:#FFD700,color:#FFD700
+    style B fill:#001F3F,stroke:#FFD700,color:#FFD700
+    style G fill:#1a1a2e,stroke:#e94560,color:#FFD700
+    style O fill:#0d0d0d,stroke:#e94560,color:#e94560
+```
+
+---
+
+## 🎯 The Problem We Solve
+
+> **The Paradox of Choice in Travel Planning.**
+>
+> Travelers today face 10+ tabs open simultaneously — hotel aggregators, weather sites, currency converters, review platforms, map tools. By the time they've gathered the data, decision fatigue has set in.
+
+**Our solution:** A single conversational interface backed by **autonomous AI agents** that orchestrate real-time tool calls, synthesize data from multiple APIs, and deliver complete, data-driven travel plans — including weather forecasts, budgets in your currency, restaurant recommendations with ratings, and an interactive map with every location pinned.
+
+This isn't a chatbot wrapper. It's a **multi-tool agentic workflow** built on **LangGraph's ReAct pattern** — where the AI decides which tools to call, in what order, and how to combine their outputs into a coherent plan.
+
+---
+
+## ✨ Key Features
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Long-Term Memory
+Persistent user profiling powered by **SQLite + SQLAlchemy**. Your preferences (budget style, dietary needs, travel pace) are stored and **dynamically injected** into the LLM's system prompt — every plan is personalised.
+
+</td>
+<td width="50%">
+
+### 🗺️ Interactive Mapping
+**Leaflet.js** with dark CARTO tiles and gold-themed markers. The AI response is parsed for coordinates in real-time, and pins are **automatically dropped** on the map. Navy-themed popups match the brand.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ Lightning-Fast Inference
+Powered by **Groq Cloud** running **Meta's Llama 3.3-70B Versatile**. Sub-second token generation with the quality of a 70B parameter model. No GPU required on your end.
+
+</td>
+<td width="50%">
+
+### 📊 Financial Dashboard
+Real-time currency conversion via the **Frankfurter API** + a precision calculator with tax, tip, and percentage tools. Complete cost breakdowns in your preferred currency.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌤️ Live Weather Intelligence
+**OpenWeatherMap** integration for current conditions and 5-day forecasts. The agent automatically calls weather tools and factors conditions into itinerary recommendations.
+
+</td>
+<td width="50%">
+
+### 📄 PDF Export
+One-click export of any AI-generated plan to a **branded, print-ready PDF** with Navy + Gold styling, structured tables, and a professional header/footer. Powered by `xhtml2pdf`.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📍 Smart Place Discovery
+**Google Places API** integration returning rich data: ratings, review counts, coordinates, types, and top review snippets. The agent uses both text search and detail endpoints.
+
+</td>
+<td width="50%">
+
+### 🎨 Premium UI/UX
+**Glassmorphism** design with GSAP animations, particle canvas background, Tailwind CSS, responsive layout, and a floating CTA. Designed to feel like a luxury concierge service.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔧 Tech Stack
+
+<table align="center">
+<tr>
+<th>Category</th>
+<th>Technology</th>
+</tr>
+<tr>
+<td><strong>🤖 LLM</strong></td>
+<td><img src="https://img.shields.io/badge/Groq-Llama_3.3--70B-E91E63?style=flat-square&logo=meta"/> <img src="https://img.shields.io/badge/LangChain-0.3-1C3C3C?style=flat-square&logo=chainlink"/></td>
+</tr>
+<tr>
+<td><strong>🧩 Agent Framework</strong></td>
+<td><img src="https://img.shields.io/badge/LangGraph-ReAct_Agent-FF6F00?style=flat-square"/> <img src="https://img.shields.io/badge/Tool_Binding-8_Tools-4CAF50?style=flat-square"/></td>
+</tr>
+<tr>
+<td><strong>⚡ Backend</strong></td>
+<td><img src="https://img.shields.io/badge/FastAPI-0.110-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Uvicorn-ASGI-purple?style=flat-square"/></td>
+</tr>
+<tr>
+<td><strong>🌐 Frontend</strong></td>
+<td><img src="https://img.shields.io/badge/Flask-3.0-000000?style=flat-square&logo=flask"/> <img src="https://img.shields.io/badge/Tailwind_CSS-CDN-06B6D4?style=flat-square&logo=tailwindcss"/> <img src="https://img.shields.io/badge/GSAP-3.12-88CE02?style=flat-square"/></td>
+</tr>
+<tr>
+<td><strong>🗺️ Maps</strong></td>
+<td><img src="https://img.shields.io/badge/Leaflet.js-1.9-199900?style=flat-square&logo=leaflet"/></td>
+</tr>
+<tr>
+<td><strong>📡 APIs</strong></td>
+<td><img src="https://img.shields.io/badge/OpenWeatherMap-Weather-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Google_Places-Search-4285F4?style=flat-square&logo=google"/> <img src="https://img.shields.io/badge/Frankfurter-FX_Rates-green?style=flat-square"/></td>
+</tr>
+<tr>
+<td><strong>💾 Database</strong></td>
+<td><img src="https://img.shields.io/badge/SQLite-SQLAlchemy_ORM-003B57?style=flat-square&logo=sqlite"/></td>
+</tr>
+<tr>
+<td><strong>📄 PDF</strong></td>
+<td><img src="https://img.shields.io/badge/xhtml2pdf-Branded_Export-DC143C?style=flat-square"/></td>
+</tr>
+</table>
+
+---
+
+## 🧬 Agentic Workflow — How It Works
+
+This project uses **LangGraph's ReAct (Reasoning + Acting) pattern** to create a truly autonomous agent. Unlike simple prompt-chain applications, the agent:
+
+1. **Reasons** about the user's request and decides which tools to call
+2. **Acts** by executing tool calls (weather, places, currency, calculator)
+3. **Observes** the results and decides whether to call more tools or respond
+4. **Iterates** until it has gathered enough data for a comprehensive plan
+
+```
+User: "Plan 5 days in Paris for $2000"
+  │
+  ▼
+┌──────────────────────────────────────────────────┐
+│  🧠 LangGraph ReAct Agent (Llama 3.3-70B)       │
+│                                                    │
+│  Step 1: "I need weather for Paris"                │
+│  → calls get_current_weather("Paris")              │
+│  → calls get_weather_forecast("Paris", 5)          │
+│                                                    │
+│  Step 2: "I need hotels and restaurants"            │
+│  → calls search_places("hotels", "Paris")          │
+│  → calls search_places("restaurants", "Paris")     │
+│                                                    │
+│  Step 3: "I need to convert $2000 to EUR"           │
+│  → calls convert_currency(2000, "USD", "EUR")      │
+│                                                    │
+│  Step 4: "Let me calculate per-day budget"          │
+│  → calls calculate("divide", 1850, 5)              │
+│                                                    │
+│  Step 5: Synthesise all data into a plan            │
+│  → Returns complete Markdown itinerary             │
+└──────────────────────────────────────────────────┘
+  │
+  ▼
+📋 Day-by-day itinerary with weather, budgets, map pins, & PDF export
+```
+
+### Guard Rails & Error Resilience
+
+- **System Prompt Guard:** The system prompt is always injected as the first message, regardless of state history
+- **Tool Failure Guard:** Empty or `None` tool responses are replaced with descriptive error strings
+- **Preference Injection:** User preferences from SQLite are dynamically appended to the system prompt per session
+- **Graceful Degradation:** If a tool fails (API down, timeout), the agent acknowledges it and proceeds with available data
+
+---
+
+## 📁 Project Structure
+
+```
+📦 ai-travel-planner/
+├── 🤖 agents/
+│   └── agentic_workflow.py     # LangGraph ReAct agent (GraphBuilder)
+├── 🛠️ tools/
+│   ├── calculator_tool.py      # Budget arithmetic tools
+│   ├── currency_conversion.py  # Currency exchange tool
+│   ├── place_search.py         # Google Places search + details
+│   └── weather_information.py  # Weather current + forecast tools
+├── ⚙️ utils/
+│   ├── calculator.py           # Calculator with float-safe arithmetic
+│   ├── currency_converter.py   # Frankfurter API wrapper
+│   ├── place_info.py           # Google Places API (enriched)
+│   ├── weather_info.py         # OpenWeatherMap API wrapper
+│   ├── pdf_generator.py        # Markdown → Branded PDF
+│   ├── model_loader.py         # LLM provider factory
+│   ├── config_loader.py        # YAML config reader
+│   └── save_document.py        # Document I/O utilities
+├── 🌐 flask_app/
+│   ├── app.py                  # Flask routes (query, prefs, PDF export)
+│   ├── templates/
+│   │   └── index.html          # Glassmorphism UI + Leaflet map
+│   └── static/
+│       ├── css/style.css       # Navy + Gold design system
+│       └── js/main.js          # GSAP animations + Leaflet + Chat
+├── 📝 prompt_library/
+│   └── prompt.py               # SYSTEM_PROMPT for the AI agent
+├── ⚙️ config/
+│   └── config.yaml             # LLM model configuration
+├── 📊 models.py                # SQLAlchemy ORM + PreferenceManager
+├── 🚀 main.py                  # FastAPI application (API server)
+├── 🖥️ app.py                   # Streamlit interface (alternative)
+├── 📋 requirements.txt
+├── 🔒 .env.example
+└── 📖 README.md
+```
+
+---
+
+## 🚀 Installation & Setup
+
+### Prerequisites
+
+- Python 3.11+
+- A [Groq API Key](https://console.groq.com/) (free tier available)
+- An [OpenWeatherMap API Key](https://openweathermap.org/api) (free tier)
+- A [Google Places API Key](https://developers.google.com/maps/documentation/places/web-service) (optional)
+
+### Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/MustafaKocamann/ai-travel-planner.git
+cd ai-travel-planner
+```
+
+### Step 2: Create & Activate Virtual Environment
+
+```bash
+python -m venv venv
+
+# Windows
+venv\Scripts\activate
+
+# macOS / Linux
+source venv/bin/activate
+```
+
+### Step 3: Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Step 4: Configure Environment Variables
+
+```bash
+cp .env.example .env
+```
+
+Edit `.env` with your API keys:
+
+```env
+GROQ_API_KEY=gsk_your_groq_api_key_here
+OPENWEATHERMAP_API_KEY=your_openweathermap_key_here
+GOOGLE_PLACES_API_KEY=your_google_places_key_here  # optional
+```
+
+### Step 5: Launch the Application
+
+Open **two terminals** and run:
+
+```bash
+# Terminal 1 — FastAPI Backend (port 8000)
+uvicorn main:app --reload --port 8000
+```
+
+```bash
+# Terminal 2 — Flask Frontend (port 5000)
+python flask_app/app.py
+```
+
+### Step 6: Open in Browser
+
+```
+🌐 http://localhost:5000
+```
+
+> 💡 **Tip:** Complex trip plans (multi-day, multi-city) may take 1–3 minutes as the agent calls multiple tools sequentially.
+
+---
+
+## 💬 Usage Examples
+
+| Query | What the Agent Does |
+|-------|-------------------|
+| `"Plan 5 days in Paris for $2000"` | Weather + Hotels + Restaurants + Currency conversion + Budget breakdown |
+| `"What's the weather in Tokyo?"` | Calls OpenWeatherMap API for current conditions |
+| `"Best restaurants in Rome"` | Calls Google Places API with ratings and coordinates |
+| `"Convert 500 USD to EUR"` | Calls Frankfurter API for live exchange rates |
+
+---
+
+## 🗺️ Future Roadmap
+
+<table>
+<tr>
+<td>🔜 <strong>v2.1</strong></td>
+<td>Voice AI integration — plan trips via voice commands using Whisper</td>
+</tr>
+<tr>
+<td>📱 <strong>v3.0</strong></td>
+<td>Mobile-first PWA with offline support and push notifications</td>
+</tr>
+<tr>
+<td>🌍 <strong>v4.0</strong></td>
+<td>Multi-language support (TR, DE, FR, ES, JA) with auto-detection</td>
+</tr>
+<tr>
+<td>🏨 <strong>v5.0</strong></td>
+<td>Direct booking integration — hotels, flights, and activities</td>
+</tr>
+<tr>
+<td>👥 <strong>v6.0</strong></td>
+<td>Collaborative trip planning — share and co-edit plans in real-time</td>
+</tr>
+<tr>
+<td>📈 <strong>v7.0</strong></td>
+<td>Price prediction engine — ML-powered fare & hotel cost forecasting</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
+</p>
+
+<h3 align="center">💛 Built with passion by <a href="https://github.com/MustafaKocamann">Mustafa Kocaman</a></h3>
+
+<p align="center">
+  <em>If this project helped you, consider giving it a ⭐ — it means the world!</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MustafaKocamann">
+    <img src="https://img.shields.io/badge/GitHub-MustafaKocamann-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/mustafakocaman">
+    <img src="https://img.shields.io/badge/LinkedIn-Mustafa_Kocaman-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
