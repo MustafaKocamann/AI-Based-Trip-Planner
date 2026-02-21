@@ -1,30 +1,25 @@
-# ────────────────────────────────────────────────
-# Agentic AI Travel Planner  ·  Requirements
-# ────────────────────────────────────────────────
+# ── Core Framework ──
+fastapi
+uvicorn
+flask
+pydantic
+python-dotenv
+requests
+SQLAlchemy
+pyyaml
 
-# ── Core Framework ─────────────────────────────
-fastapi>=0.110.0
-uvicorn[standard]>=0.27.0
-flask>=3.0.0
-pydantic>=2.6.0
+# ── AI & Agents ──
+langchain
+langchain-groq
+langchain-community
+langchain-tavily
+langchain-google-community ; git+https://github.com/langchain-ai/langchain-google.git#subdirectory=libs/community
+langgraph
 
-# ── LangChain / LangGraph ─────────────────────
-langchain>=0.3.0
-langchain-core>=0.3.0
-langchain-groq>=0.2.0
-langchain-community>=0.3.0
-langgraph>=0.2.0
+# ── PDF Generation ──
+xhtml2pdf
+markdown
+fpdf
 
-# ── Database ───────────────────────────────────
-SQLAlchemy>=2.0.0
-
-# ── PDF Generation ─────────────────────────────
-xhtml2pdf>=0.2.0
-markdown>=3.5.0
-
-# ── API & Networking ──────────────────────────
-requests>=2.31.0
-
-# ── Configuration & Environment ────────────────
-python-dotenv>=1.0.0
-pyyaml>=6.0.0
+# ── Development ──
+setuptools

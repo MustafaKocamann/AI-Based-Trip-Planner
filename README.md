@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Mustafa+AI+Travel+Concierge;Agentic+AI+Travel+Planner;5-Star+Travel+Experience+✈️;Powered+by+LangGraph+%26+Groq" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Mustafa+AI+Travel+Concierge;Problem+Çözme+Sanatı+🎯;Agentic+AI+Travel+Planner;5-Star+Travel+Experience+✈️;Powered+by+LangGraph+%26+Groq" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -13,33 +13,28 @@
 </p>
 
 <p align="center">
-  <em>Solving the paradox of choice in travel planning using autonomous AI agents that research, calculate, and plan.</em>
-</p>
-
-<p align="center">
   <a href="https://github.com/MustafaKocamann/AI-Based-Trip-Planner"><img src="https://img.shields.io/github/stars/MustafaKocamann/AI-Based-Trip-Planner?style=for-the-badge&color=gold&logo=github" alt="Stars"/></a>
   <a href="https://github.com/MustafaKocamann/AI-Based-Trip-Planner"><img src="https://img.shields.io/github/forks/MustafaKocamann/AI-Based-Trip-Planner?style=for-the-badge&color=gold&logo=github" alt="Forks"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Status-Star--Worthy-FF6F00?style=for-the-badge" alt="Status"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Stack-FastAPI_%7C_Flask_%7C_LangGraph-009688?style=for-the-badge" alt="Tech Stack"/></a>
 </p>
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
 </p>
 
-## 📸 Visual Preview
-
-<p align="center">
-  <img src="https://github.com/MustafaKocamann/AI-Based-Trip-Planner/raw/main/docs/dashboard_preview.gif" alt="Dashboard Preview" width="90%"/>
-  <br/>
-  <em>🎬 The AI Concierge generating a 5-day Paris itinerary with live weather, map pins, and PDF export.</em>
-</p>
-
 ---
 
-## 🏗️ System Architecture
+## 📸 Visual Hook & System Architecture
+
+<p align="center">
+  <img src="https://github.com/MustafaKocamann/AI-Based-Trip-Planner/raw/main/docs/dashboard_preview.gif" alt="Main Dashboard GIF Placeholder" width="90%"/>
+  <br/>
+  <em>🎬 **Main Dashboard Preview:** AI-driven itinerary generation, interactive mapping, and PDF export in action.</em>
+</p>
+
+### 🏗️ Agentic Workflow (LangGraph)
 
 ```mermaid
 graph TB
@@ -87,104 +82,109 @@ graph TB
 
 ---
 
-## 🎯 The Problem We Solve
+## 🎯 The 'Why' - Solving the Paradox of Choice
 
-> **The Paradox of Choice in Travel Planning.**
->
-> Travelers today face 10+ tabs open simultaneously — hotel aggregators, weather sites, currency converters, review platforms, map tools. By the time they've gathered the data, decision fatigue has set in.
+Travel planning is broken. Travelers today navigate a "choice paradox," bouncing between 10+ tabs: hotel aggregators, weather sites, currency converters, Map tools, and review platforms. By the time they have gathered enough data, decision fatigue sets in.
 
-**Our solution:** A single conversational interface backed by **autonomous AI agents** that orchestrate real-time tool calls, synthesize data from multiple APIs, and deliver complete, data-driven travel plans.
+**Agentic AI Travel Planner** solves this by providing a single conversional interface where **Multi-Agent AI** does the heavy lifting. It doesn't just "chat"—it researches, calculates, validates, and plan. It's not a hallucination engine; it's an execution engine.
 
 ---
 
 ## ✨ Key Features
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠_Memory-SQLite_Persistence-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🗺️_Mapping-Real--Time_Leaflet.js-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚡_Inference-Groq_Llama--3.3-red?style=for-the-badge"/>
+</p>
 
 ### 🧠 Long-Term Memory
-Persistent user profiling powered by **SQLite**. Your preferences are dynamically injected into every plan.
-
-</td>
-<td width="50%">
+Persistent user profiling powered by **SQLite + SQLAlchemy**. Your historical preferences (dietary, pace, budget) are stored and dynamically injected into the AI's system prompt for a truly personalized experience.
 
 ### 🗺️ Interactive Mapping
-**Leaflet.js** integration with gold-themed markers. Pins are automatically dropped as the agent plans your route.
+Seamless **Leaflet.js** integration. The AI doesn't just suggest places; it drops gold-themed markers on a dark-themed interactive map in real-time.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⚡ Lightning-Fast Inference
-Powered by **Groq Cloud** running **Llama 3.3-70B**. Sub-second token generation for smooth experience.
-
-</td>
-<td width="50%">
+### ⚡ Lightning Fast Inference
+Leveraging **Groq Cloud** with **Meta’s Llama-3.3-70B**. Sub-second token generation provides a near-instant "Senior AI" consultation feel.
 
 ### 📊 Financial Dashboard
-Real-time currency conversion via the **Frankfurter API** + a precision budget calculator.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌤️ Live Weather Intelligence
-**OpenWeatherMap** integration for current conditions and 5-day forecasts factored into itineraries.
-
-</td>
-<td width="50%">
-
-### 📄 PDF Export
-One-click export of any AI-generated plan to a **branded, print-ready PDF** using `xhtml2pdf`.
-
-</td>
-</tr>
-</table>
+Precise budgeting with **real-time exchange rates** (Frankfurter API) and a precision calculator. No more manual math on currency spreads.
 
 ---
 
 ## 🔧 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+| Category | tools |
+| :--- | :--- |
+| **🤖 LLM** | Groq (Llama 3.3-70B), LangChain |
+| **🧩 Framework** | FastAPI, Flask, LangGraph |
+| **🔍 Search** | Tavily, Google Places API |
+| **🌐 API** | OpenWeatherMap, Frankfurter |
+| **🎨 Frontend** | Tailwind CSS, GSAP, Leaflet.js |
 
 ---
 
-## 🧬 Agentic Workflow — How It Works
+## ⚙️ Installation & Setup
 
-This project uses **LangGraph's ReAct (Reasoning + Acting) pattern** to create a truly autonomous agent. The agent:
-1. **Reasons** about the request and decides which tools to call.
-2. **Acts** by executing tool calls (Weather, Places, Currency, Calculator).
-3. **Observes** the results and refines the plan.
-4. **Responds** with a comprehensive, data-backed Markdown itinerary.
+### Step 1: Clone the Repository
+```bash
+git clone https://github.com/MustafaKocamann/AI-Based-Trip-Planner.git
+cd AI-Based-Trip-Planner
+```
+
+### Step 2: Environment Configuration
+```bash
+cp .env.example .env
+# Fill in your GROQ_API_KEY and OPENWEATHERMAP_API_KEY
+```
+
+### Step 3: Deployment
+```bash
+pip install -r requirements.txt
+
+# Terminal 1: Launch Backend
+uvicorn main:app --reload --port 8000
+
+# Terminal 2: Launch Frontend
+python flask_app/app.py
+```
+
+### Step 4: Launch
+```
+🌐 Visit http://localhost:5000
+```
 
 ---
 
-## 🚀 Installation & Setup
+## 🧬 Engineering Highlight: The Agentic Workflow
 
-1.  **Clone:** `git clone https://github.com/MustafaKocamann/AI-Based-Trip-Planner.git`
-2.  **Environment:** `cp .env.example .env` (Add your API keys)
-3.  **Install:** `pip install -r requirements.txt`
-4.  **Backend:** `uvicorn main:app --port 8000`
-5.  **Frontend:** `python flask_app/app.py`
-6.  **Run:** Open `http://localhost:5000`
+This project utilizes a **ReAct (Reasoning + Acting)** pattern implemented via **LangGraph**. Unlike standard linear LLM chains, our agent:
+
+1.  **Observes** the user request and user preferences from SQLite.
+2.  **Reasons** about which tool is required (e.g., "I need weather data before I suggest outdoor activities").
+3.  **Acts** by triggering the ToolNode to call external APIs.
+4.  **Refines** the plan based on tool results, repeating the loop until a multi-day itinerary is fully validated.
 
 ---
+
+## 🗺️ Future Roadmap (Growth Hacker's Vision)
+
+- [ ] **Mobile App Integration:** Swift/Kotlin wrappers for planning on-the-go.
+- [ ] **Voice AI Assistant:** Whisper + Piper integration for hands-free concierge service.
+- [ ] **Global Scaling:** Multi-language support and direct booking integration (Amadeus/Skyscanner).
+
+---
+
+## 📄 License & Credits
+
+Lead Developer: **Mustafa Kocaman**  
+License: **MIT**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
 </p>
 
-<h3 align="center">💛 Built with passion by <a href="https://github.com/MustafaKocamann">Mustafa Kocaman</a></h3>
+<h3 align="center">💛 Built for the Future of AI Travel</h3>
 
 <p align="center">
   <a href="https://github.com/MustafaKocamann">
