@@ -21,10 +21,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Flask-Frontend-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/MustafaKocamann"><img src="https://img.shields.io/github/stars/MustafaKocamann/ai-travel-planner?style=social" alt="Stars"/></a>
-  <a href="https://github.com/MustafaKocamann"><img src="https://img.shields.io/github/forks/MustafaKocamann/ai-travel-planner?style=social" alt="Forks"/></a>
-</p>
+
 
 ---
 
