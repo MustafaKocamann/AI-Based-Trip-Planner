@@ -1,0 +1,62 @@
+# ────────────────────────────────────────────────
+# Agentic AI Travel Planner  ·  .gitignore
+# ────────────────────────────────────────────────
+
+# ── Environment & Secrets ──────────────────────
+.env
+.env.*
+!.env.example
+
+# ── Virtual Environments ───────────────────────
+venv/
+env/
+.venv/
+ENV/
+
+# ── Python bytecode / cache ────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# ── Database files ─────────────────────────────
+*.sqlite3
+*.db
+
+# ── IDE / Editor folders ──────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# ── Output / Generated files ──────────────────
+outputs/
+output/
+*.png
+*.pdf
+my_graph.png
+
+# ── OS-specific junk ──────────────────────────
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ── Distribution / Build ──────────────────────
+dist/
+build/
+*.egg-info/
+*.egg
+
+# ── Testing / Coverage ────────────────────────
+.pytest_cache/
+htmlcov/
+.coverage
+.tox/
+
+# ── Misc ──────────────────────────────────────
+*.log
+*.bak
+.gemini/

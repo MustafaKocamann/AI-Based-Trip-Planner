@@ -1,0 +1,415 @@
+/* ── Base & Custom Properties ─────────────────────────────────────────── */
+:root {
+  --navy: #001F3F;
+  --navy-l: #002D5A;
+  --gold: #FFD700;
+  --gold-h: #FFC200;
+  --glass-bg: rgba(255, 255, 255, 0.05);
+  --glass-bd: rgba(255, 255, 255, 0.10);
+  --glass-sh: rgba(0, 0, 0, 0.30);
+  --radius-xl: 1.25rem;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--navy);
+  font-family: 'Poppins', sans-serif;
+}
+
+/* ── Scrollbar ────────────────────────────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 215, 0, 0.25);
+  border-radius: 99px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 215, 0, 0.45);
+}
+
+/* ── Glassmorphism Cards ──────────────────────────────────────────────── */
+.glass-card {
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-bd);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  box-shadow: 0 8px 32px var(--glass-sh);
+  transition: border-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.glass-card:hover {
+  border-color: rgba(255, 215, 0, 0.20);
+  box-shadow: 0 12px 48px rgba(0, 0, 0, 0.4), 0 0 0 1px rgba(255, 215, 0, 0.08);
+}
+
+.glass-card-inner {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(8px);
+}
+
+/* ── Navbar glassmorphism ─────────────────────────────────────────────── */
+#navbar {
+  background: rgba(0, 31, 63, 0.80);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.07);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  transition: background 0.3s ease;
+}
+
+/* ── Hero badge ───────────────────────────────────────────────────────── */
+.glass-badge {
+  background: rgba(255, 215, 0, 0.08);
+  border: 1px solid rgba(255, 215, 0, 0.25);
+  border-radius: 99px;
+  padding: 0.35rem 1rem;
+  backdrop-filter: blur(8px);
+}
+
+/* ── Text gradient ────────────────────────────────────────────────────── */
+.text-gradient {
+  background: linear-gradient(135deg, #FFD700 0%, #FFA500 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ── Glow orbs ────────────────────────────────────────────────────────── */
+.glow-orb {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(80px);
+  pointer-events: none;
+  animation: drift 12s ease-in-out infinite;
+}
+
+.glow-orb-1 {
+  width: 500px;
+  height: 500px;
+  background: radial-gradient(circle, rgba(255, 215, 0, 0.08) 0%, transparent 70%);
+  top: -100px;
+  left: -150px;
+}
+
+.glow-orb-2 {
+  width: 400px;
+  height: 400px;
+  background: radial-gradient(circle, rgba(0, 100, 255, 0.07) 0%, transparent 70%);
+  bottom: 0;
+  right: -100px;
+  animation-delay: -6s;
+}
+
+@keyframes drift {
+
+  0%,
+  100% {
+    transform: translate(0, 0);
+  }
+
+  33% {
+    transform: translate(30px, -20px);
+  }
+
+  66% {
+    transform: translate(-20px, 15px);
+  }
+}
+
+/* ── Feature cards – icon badge ──────────────────────────────────────── */
+.icon-badge {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.875rem;
+  background: rgba(255, 215, 0, 0.12);
+  border: 1px solid rgba(255, 215, 0, 0.20);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  transition: background 0.3s ease, transform 0.3s ease;
+}
+
+.feature-card:hover .icon-badge {
+  background: rgba(255, 215, 0, 0.22);
+  transform: scale(1.1);
+}
+
+/* ── Chat bubbles ─────────────────────────────────────────────────────── */
+.avatar-bot {
+  width: 2rem;
+  height: 2rem;
+  background: var(--gold);
+  color: var(--navy);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.85rem;
+  font-weight: 700;
+  flex-shrink: 0;
+  box-shadow: 0 0 12px rgba(255, 215, 0, 0.35);
+}
+
+.avatar-user {
+  width: 2rem;
+  height: 2rem;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.8rem;
+  flex-shrink: 0;
+}
+
+.chat-bubble-bot {
+  animation: slideInLeft 0.35s ease forwards;
+}
+
+.chat-bubble-user {
+  background: rgba(255, 215, 0, 0.12);
+  border: 1px solid rgba(255, 215, 0, 0.20);
+  border-radius: 1.25rem;
+  border-bottom-right-radius: 0.25rem;
+  padding: 0.75rem 1rem;
+  font-size: 0.875rem;
+  max-width: 85%;
+  animation: slideInRight 0.35s ease forwards;
+}
+
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* ── Markdown rendered content ────────────────────────────────────────── */
+.md-content h1,
+.md-content h2,
+.md-content h3 {
+  color: var(--gold);
+  font-weight: 600;
+  margin-top: 1rem;
+  margin-bottom: 0.4rem;
+}
+
+.md-content h1 {
+  font-size: 1.1rem;
+}
+
+.md-content h2 {
+  font-size: 1rem;
+}
+
+.md-content h3 {
+  font-size: 0.9rem;
+}
+
+.md-content p {
+  margin-bottom: 0.5rem;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.md-content ul {
+  list-style: disc;
+  padding-left: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.md-content li {
+  color: rgba(255, 255, 255, 0.75);
+  margin-bottom: 0.2rem;
+  font-size: 0.85rem;
+}
+
+.md-content strong {
+  color: #fff;
+}
+
+.md-content hr {
+  border-color: rgba(255, 255, 255, 0.1);
+  margin: 0.75rem 0;
+}
+
+.md-content code {
+  background: rgba(255, 215, 0, 0.1);
+  color: var(--gold);
+  padding: 0.1rem 0.35rem;
+  border-radius: 0.25rem;
+  font-size: 0.8em;
+}
+
+/* ── Suggestion chips ─────────────────────────────────────────────────── */
+.suggestion-chip {
+  font-size: 0.7rem;
+  padding: 0.35rem 0.8rem;
+  border-radius: 99px;
+  border: 1px solid rgba(255, 215, 0, 0.20);
+  background: rgba(255, 215, 0, 0.06);
+  color: rgba(255, 255, 255, 0.6);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  font-family: 'Poppins', sans-serif;
+}
+
+.suggestion-chip:hover {
+  background: rgba(255, 215, 0, 0.14);
+  border-color: rgba(255, 215, 0, 0.40);
+  color: #fff;
+  transform: translateY(-1px);
+}
+
+/* ── Typing indicator ─────────────────────────────────────────────────── */
+.typing-dot {
+  width: 7px;
+  height: 7px;
+  background: var(--gold);
+  border-radius: 50%;
+  display: inline-block;
+  animation: bounce 1.2s ease-in-out infinite;
+}
+
+.typing-dot:nth-child(2) {
+  animation-delay: 0.2s;
+}
+
+.typing-dot:nth-child(3) {
+  animation-delay: 0.4s;
+}
+
+@keyframes bounce {
+
+  0%,
+  60%,
+  100% {
+    transform: translateY(0);
+  }
+
+  30% {
+    transform: translateY(-6px);
+  }
+}
+
+/* ── Particles canvas ─────────────────────────────────────────────────── */
+#particles-canvas {
+  opacity: 0.5;
+}
+
+/* ── Leaflet Map ─────────────────────────────────────────────────────── */
+#travel-map {
+  background: var(--navy-l);
+  border-radius: 0;
+}
+
+/* Navy-themed Leaflet popups */
+.leaflet-popup-content-wrapper {
+  background: #001F3F !important;
+  color: #fff !important;
+  border: 1px solid rgba(255, 215, 0, 0.3) !important;
+  border-radius: 12px !important;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5) !important;
+  font-family: 'Poppins', sans-serif !important;
+}
+
+.leaflet-popup-tip {
+  background: #001F3F !important;
+  border: 1px solid rgba(255, 215, 0, 0.3) !important;
+}
+
+.leaflet-popup-content {
+  margin: 10px 14px !important;
+  font-size: 12px !important;
+  line-height: 1.5 !important;
+}
+
+.leaflet-popup-content strong {
+  color: #FFD700;
+}
+
+/* Gold-tinted marker shadow */
+.gold-marker {
+  filter: hue-rotate(15deg) saturate(1.5) brightness(1.2);
+}
+
+/* Preferences chip in modal */
+.pref-chip {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: rgba(255, 215, 0, 0.08);
+  border: 1px solid rgba(255, 215, 0, 0.18);
+  border-radius: 0.5rem;
+  padding: 0.4rem 0.75rem;
+  font-size: 0.75rem;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.pref-chip .pref-key {
+  color: var(--gold);
+  font-weight: 600;
+}
+
+.pref-chip button {
+  background: none;
+  border: none;
+  color: rgba(255, 255, 255, 0.35);
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.pref-chip button:hover {
+  color: #ff5555;
+}
+
+/* ── Responsive ───────────────────────────────────────────────────────── */
+@media (max-width: 640px) {
+  #hero h1 {
+    font-size: 2.6rem;
+  }
+
+  .suggestion-chip {
+    font-size: 0.65rem;
+    padding: 0.3rem 0.6rem;
+  }
+
+  #travel-map {
+    height: 300px !important;
+  }
+}

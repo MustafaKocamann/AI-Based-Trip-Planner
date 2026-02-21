@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mustafa AI Travel Concierge</title>
+  <meta name="description" content="An elite AI-powered travel concierge for personalised, data-driven travel plans." />
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet" />
+
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            navy: { DEFAULT: '#001F3F', light: '#002D5A', border: '#1a4a72' },
+            gold: { DEFAULT: '#FFD700', hover: '#FFC200', muted: '#FFD70033' },
+          },
+          fontFamily: { sans: ['Poppins', 'sans-serif'] },
+          animation: {
+            'float': 'float 3s ease-in-out infinite',
+            'pulse-gold': 'pulseGold 2s ease-in-out infinite',
+          },
+          keyframes: {
+            float: {
+              '0%, 100%': { transform: 'translateY(0px)' },
+              '50%': { transform: 'translateY(-8px)' },
+            },
+            pulseGold: {
+              '0%, 100%': { boxShadow: '0 0 0 0 rgba(255,215,0,0.4)' },
+              '50%': { boxShadow: '0 0 0 12px rgba(255,215,0,0)' },
+            },
+          },
+          backdropBlur: { xs: '2px' },
+        },
+      },
+    };
+  </script>
+
+  <!-- GSAP CDN -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+
+  <!-- Marked.js for markdown rendering -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+  <!-- Leaflet.js -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+</head>
+
+<body class="bg-navy font-sans text-white min-h-screen overflow-x-hidden">
+
+  <!-- ── Animated background particles ──────────────────────────────────── -->
+  <canvas id="particles-canvas" class="fixed inset-0 pointer-events-none z-0"></canvas>
+
+  <!-- ── Navigation ─────────────────────────────────────────────────────── -->
+  <nav id="navbar" class="fixed top-0 left-0 right-0 z-50 px-6 py-4 flex items-center justify-between">
+    <div class="flex items-center gap-3">
+      <div
+        class="w-9 h-9 rounded-full bg-gold flex items-center justify-center text-navy font-bold text-sm shadow-lg shadow-gold/30 animate-pulse-gold">
+        ✈</div>
+      <span class="font-semibold text-lg tracking-wide">Mustafa <span class="text-gold">Concierge</span></span>
+    </div>
+    <div class="hidden md:flex items-center gap-8 text-sm text-white/70">
+      <a href="#hero" class="hover:text-gold transition-colors">Home</a>
+      <a href="#features" class="hover:text-gold transition-colors">Features</a>
+      <a href="#chat" class="hover:text-gold transition-colors">Plan Trip</a>
+      <a href="#map-section" class="hover:text-gold transition-colors">Map</a>
+      <button onclick="openPrefsModal()" class="hover:text-gold transition-colors">⚙️ Preferences</button>
+    </div>
+  </nav>
+
+  <!-- ── Hero Section ───────────────────────────────────────────────────── -->
+  <section id="hero" class="relative min-h-screen flex flex-col items-center justify-center text-center px-6 pt-20">
+    <div class="glow-orb glow-orb-1"></div>
+    <div class="glow-orb glow-orb-2"></div>
+
+    <div id="hero-content" class="relative z-10 max-w-3xl mx-auto">
+      <div id="hero-badge" class="inline-flex items-center gap-2 glass-badge mb-6 opacity-0">
+        <span class="w-2 h-2 rounded-full bg-gold animate-pulse"></span>
+        <span class="text-xs font-medium text-gold tracking-widest uppercase">AI-Powered Concierge</span>
+      </div>
+
+      <h1 id="hero-title" class="text-5xl md:text-7xl font-bold leading-tight mb-6 opacity-0">
+        Plan Your<br />
+        <span class="text-gradient">Dream Trip</span><br />
+        with AI
+      </h1>
+
+      <p id="hero-sub" class="text-white/60 text-lg md:text-xl max-w-xl mx-auto mb-10 opacity-0 leading-relaxed">
+        Your elite AI Travel Concierge — real-time weather, live prices, interactive maps, bespoke itineraries. Just
+        tell us where you want to go.
+      </p>
+
+      <a id="cta-btn" href="#chat"
+        class="inline-flex items-center gap-3 bg-gold text-navy font-semibold px-8 py-4 rounded-full text-base shadow-2xl shadow-gold/30 hover:bg-gold-hover transition-all duration-300 opacity-0 animate-float">
+        <span>Start Planning</span>
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+        </svg>
+      </a>
+    </div>
+
+    <div
+      class="absolute bottom-10 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 text-white/30 text-xs animate-bounce">
+      <span>Scroll</span>
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+      </svg>
+    </div>
+  </section>
+
+  <!-- ── Feature Cards ───────────────────────────────────────────────────── -->
+  <section id="features" class="relative z-10 py-24 px-6">
+    <div class="max-w-5xl mx-auto">
+      <h2 class="text-center text-3xl md:text-4xl font-bold mb-3">
+        Everything You <span class="text-gold">Need</span>
+      </h2>
+      <p class="text-center text-white/50 mb-14 text-sm">Powered by live APIs — no guesswork, no hallucinations.</p>
+
+      <div id="features-grid" class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <div class="feature-card glass-card p-7 rounded-2xl opacity-0">
+          <div class="icon-badge mb-5">🌤</div>
+          <h3 class="font-semibold text-lg mb-2">Live Weather</h3>
+          <p class="text-white/50 text-sm leading-relaxed">Real-time conditions and 5-day forecasts via OpenWeatherMap —
+            always in Celsius.</p>
+        </div>
+        <div class="feature-card glass-card p-7 rounded-2xl opacity-0">
+          <div class="icon-badge mb-5">💱</div>
+          <h3 class="font-semibold text-lg mb-2">Currency Conversion</h3>
+          <p class="text-white/50 text-sm leading-relaxed">Instant multi-currency conversion with live rates. Budget in
+            any currency.</p>
+        </div>
+        <div class="feature-card glass-card p-7 rounded-2xl opacity-0">
+          <div class="icon-badge mb-5">📍</div>
+          <h3 class="font-semibold text-lg mb-2">Place Discovery</h3>
+          <p class="text-white/50 text-sm leading-relaxed">Hotels, restaurants, and attractions with ratings, reviews
+            and map pins.</p>
+        </div>
+        <div class="feature-card glass-card p-7 rounded-2xl opacity-0">
+          <div class="icon-badge mb-5">🗺️</div>
+          <h3 class="font-semibold text-lg mb-2">Interactive Maps</h3>
+          <p class="text-white/50 text-sm leading-relaxed">Leaflet.js powered map with markers for every recommended
+            location.</p>
+        </div>
+        <div class="feature-card glass-card p-7 rounded-2xl opacity-0">
+          <div class="icon-badge mb-5">📄</div>
+          <h3 class="font-semibold text-lg mb-2">PDF Export</h3>
+          <p class="text-white/50 text-sm leading-relaxed">Download your travel plan as a branded, print-ready PDF
+            document.</p>
+        </div>
+        <div class="feature-card glass-card p-7 rounded-2xl opacity-0">
+          <div class="icon-badge mb-5">🧠</div>
+          <h3 class="font-semibold text-lg mb-2">Memory & Prefs</h3>
+          <p class="text-white/50 text-sm leading-relaxed">Stores your preferences (diet, budget, style) so every plan
+            is personalised.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Chat Section ───────────────────────────────────────────────────── -->
+  <section id="chat" class="relative z-10 py-24 px-6">
+    <div class="max-w-3xl mx-auto">
+      <h2 class="text-center text-3xl md:text-4xl font-bold mb-3">
+        Talk to Your <span class="text-gold">Concierge</span>
+      </h2>
+      <p class="text-center text-white/50 text-sm mb-10">Ask anything. "Plan 5 days in Tokyo for $2000." "Best time to
+        visit Santorini?"</p>
+
+      <div id="chat-container" class="glass-card rounded-2xl overflow-hidden shadow-2xl">
+        <div id="chat-messages" class="h-[420px] overflow-y-auto p-6 flex flex-col gap-4 scroll-smooth">
+          <div class="flex gap-3 items-start">
+            <div class="avatar-bot shrink-0">✈</div>
+            <div
+              class="chat-bubble-bot glass-card-inner rounded-2xl rounded-tl-sm p-4 text-sm text-white/80 leading-relaxed max-w-[85%]">
+              Welcome! I'm your <strong class="text-gold">Mustafa AI Travel Concierge</strong>. Tell me your dream
+              destination and I'll craft a personalised, data-driven travel plan for you. Where shall we go? 🌍
+            </div>
+          </div>
+        </div>
+
+        <div class="border-t border-white/10"></div>
+
+        <div class="p-4 flex gap-3 items-end">
+          <textarea id="chat-input" rows="2" placeholder="e.g. Plan a 7-day trip to Tokyo for 2 people, budget $3000..."
+            class="flex-1 resize-none bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder:text-white/30 focus:outline-none focus:border-gold/60 transition-colors leading-relaxed"></textarea>
+          <button id="send-btn"
+            class="shrink-0 bg-gold text-navy font-semibold w-12 h-12 rounded-xl flex items-center justify-center shadow-lg shadow-gold/20 hover:bg-gold-hover active:scale-95 transition-all duration-150 disabled:opacity-50 disabled:cursor-not-allowed">
+            <svg id="send-icon" class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+            </svg>
+            <svg id="send-spinner" class="w-5 h-5 animate-spin hidden" fill="none" viewBox="0 0 24 24">
+              <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4" />
+              <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8z" />
+            </svg>
+          </button>
+        </div>
+
+        <div class="px-4 pb-4 flex flex-wrap gap-2">
+          <button class="suggestion-chip" onclick="fillSuggestion(this)">5 days in Paris 🗼</button>
+          <button class="suggestion-chip" onclick="fillSuggestion(this)">Week in Tokyo on $2000 🗾</button>
+          <button class="suggestion-chip" onclick="fillSuggestion(this)">Santorini honeymoon 🌅</button>
+          <button class="suggestion-chip" onclick="fillSuggestion(this)">Safari in Kenya 🦁</button>
+        </div>
+      </div>
+
+      <!-- Status bar -->
+      <p id="status-bar" class="text-center text-xs text-white/30 mt-4 hidden">
+        <span class="inline-flex items-center gap-1.5">
+          <span class="w-1.5 h-1.5 rounded-full bg-gold animate-pulse"></span>
+          Agent is thinking — this may take up to 60 seconds…
+        </span>
+      </p>
+
+      <!-- Export button (appears after first response) -->
+      <div id="export-bar" class="text-center mt-4 hidden">
+        <button id="export-pdf-btn" onclick="exportPdf()"
+          class="inline-flex items-center gap-2 glass-badge text-gold text-xs font-medium px-5 py-2.5 rounded-full hover:bg-gold/10 transition-all border border-gold/25">
+          📄 Export as PDF
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Map Section ─────────────────────────────────────────────────────── -->
+  <section id="map-section" class="relative z-10 py-24 px-6">
+    <div class="max-w-5xl mx-auto">
+      <h2 class="text-center text-3xl md:text-4xl font-bold mb-3">
+        Your <span class="text-gold">Destinations</span>
+      </h2>
+      <p class="text-center text-white/50 text-sm mb-10">Pins drop automatically when the AI finds locations for your
+        trip.</p>
+
+      <div class="glass-card rounded-2xl overflow-hidden shadow-2xl">
+        <div id="travel-map" class="w-full h-[450px] md:h-[550px]"></div>
+      </div>
+
+      <p id="map-empty" class="text-center text-white/30 text-xs mt-4">
+        Ask the concierge about a destination and the map will populate with pins.
+      </p>
+    </div>
+  </section>
+
+  <!-- ── Preferences Modal ───────────────────────────────────────────────── -->
+  <div id="prefs-modal" class="fixed inset-0 z-[100] hidden">
+    <div class="absolute inset-0 bg-black/60 backdrop-blur-sm" onclick="closePrefsModal()"></div>
+    <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full max-w-md glass-card rounded-2xl p-6">
+      <h3 class="text-xl font-bold text-gold mb-4">⚙️ My Preferences</h3>
+      <p class="text-white/50 text-xs mb-6">These are injected into the AI's system prompt so all plans are
+        personalised.</p>
+
+      <div id="prefs-list" class="flex flex-col gap-2 mb-6 max-h-40 overflow-y-auto"></div>
+
+      <div class="flex gap-2 mb-4">
+        <input id="pref-key" placeholder="Key (e.g. diet)"
+          class="flex-1 bg-white/5 border border-white/10 rounded-lg px-3 py-2 text-sm text-white placeholder:text-white/30 focus:outline-none focus:border-gold/60" />
+        <input id="pref-val" placeholder="Value (e.g. vegan)"
+          class="flex-1 bg-white/5 border border-white/10 rounded-lg px-3 py-2 text-sm text-white placeholder:text-white/30 focus:outline-none focus:border-gold/60" />
+      </div>
+      <button onclick="savePref()"
+        class="w-full bg-gold text-navy font-semibold py-2.5 rounded-xl text-sm hover:bg-gold-hover transition-colors">
+        Save Preference
+      </button>
+      <button onclick="closePrefsModal()"
+        class="w-full text-white/40 text-xs mt-3 hover:text-white/70 transition-colors">Close</button>
+    </div>
+  </div>
+
+  <!-- ── Footer ──────────────────────────────────────────────────────────── -->
+  <footer class="relative z-10 py-10 text-center text-white/25 text-xs border-t border-white/5">
+    <p>Built by <span class="text-gold">Mustafa</span> · Powered by LangGraph + Groq + OpenWeatherMap</p>
+    <p class="mt-1">All AI-generated plans should be verified independently before travel.</p>
+  </footer>
+
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+
+</html>
