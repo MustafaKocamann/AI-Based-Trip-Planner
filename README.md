@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Mustafa+AI+Travel+Concierge;Problem+Çözme+Sanatı+🎯;Agentic+AI+Travel+Planner;5-Star+Travel+Experience+✈️" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Mustafa+AI+Travel+Concierge;Agentic+AI+Travel+Planner;5-Star+Travel+Experience+✈️;Powered+by+LangGraph+%26+Groq" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -9,18 +9,18 @@
 <h1 align="center">✈️ Agentic AI Travel Planner</h1>
 
 <p align="center">
-  <strong>A multi-agent, tool-augmented AI travel concierge powered by LangGraph, Groq, and real-time APIs.</strong>
+  <strong>A Multi-Agent, Tool-Augmented AI Travel Concierge — powered by LangGraph, Groq, and Real-Time APIs.</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/MustafaKocamann/AI-Based-Trip-Planner"><img src="https://img.shields.io/github/stars/MustafaKocamann/AI-Based-Trip-Planner?style=for-the-badge&color=gold" alt="Stars"/></a>
-  <a href="https://github.com/MustafaKocamann/AI-Based-Trip-Planner"><img src="https://img.shields.io/github/forks/MustafaKocamann/AI-Based-Trip-Planner?style=for-the-badge&color=gold" alt="Forks"/></a>
+  <em>Solving the paradox of choice in travel planning using autonomous AI agents that research, calculate, and plan.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MustafaKocamann/AI-Based-Trip-Planner"><img src="https://img.shields.io/github/stars/MustafaKocamann/AI-Based-Trip-Planner?style=for-the-badge&color=gold&logo=github" alt="Stars"/></a>
+  <a href="https://github.com/MustafaKocamann/AI-Based-Trip-Planner"><img src="https://img.shields.io/github/forks/MustafaKocamann/AI-Based-Trip-Planner?style=for-the-badge&color=gold&logo=github" alt="Forks"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Status-Star--Worthy-FF6F00?style=for-the-badge" alt="Status"/></a>
-</p>
-
-<p align="center">
-  <em>"Veriden Değere, Algoritmadan Anlama"</em>
 </p>
 
 ---
@@ -29,16 +29,13 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
 </p>
 
-## 🚀 Program Özellikleri
+## 📸 Visual Preview
 
-<table align="center">
-  <tr>
-    <td align="center"><b>14 Hafta</b><br/>Kapsamlı Müfredat</td>
-    <td align="center"><b>50+ Kavram</b><br/>Derinlemesine İçerik</td>
-    <td align="center"><b>2 Proje Sunumu</b><br/>Ara & Final Projeleri</td>
-    <td align="center"><b>∞ Potansiyel</b><br/>Sınırsız Öğrenme</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/MustafaKocamann/AI-Based-Trip-Planner/raw/main/docs/dashboard_preview.gif" alt="Dashboard Preview" width="90%"/>
+  <br/>
+  <em>🎬 The AI Concierge generating a 5-day Paris itinerary with live weather, map pins, and PDF export.</em>
+</p>
 
 ---
 
@@ -90,33 +87,62 @@ graph TB
 
 ---
 
-## 🎯 The Core Philosophy: "Problem Çözme Sanatı"
+## 🎯 The Problem We Solve
 
-Travel planning is a complex optimization problem. Our agent doesn't just "talk"; it **analyzes** and **executes**.
+> **The Paradox of Choice in Travel Planning.**
+>
+> Travelers today face 10+ tabs open simultaneously — hotel aggregators, weather sites, currency converters, review platforms, map tools. By the time they've gathered the data, decision fatigue has set in.
 
-1.  **Reasoning:** The agent breaks down your request into logical sub-tasks.
-2.  **Action:** It triggers real-time data fetching (Weather, Places, Currency).
-3.  **Synthesis:** It compiles a data-driven, personalized itinerary.
+**Our solution:** A single conversational interface backed by **autonomous AI agents** that orchestrate real-time tool calls, synthesize data from multiple APIs, and deliver complete, data-driven travel plans.
 
 ---
 
-## ✨ Key Technical Pillars
+## ✨ Key Features
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🧠_Memory-SQLite_SQLAlchemy-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🗺️_Interactive-Leaflet.js-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/⚡_Performance-Groq_Llama_3.3-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/📊_Budget-Frankfurter_API-yellow?style=flat-square"/>
-</p>
+<table>
+<tr>
+<td width="50%">
 
 ### 🧠 Long-Term Memory
-Persistent user profiling powered by **SQLite**. Your preferences (budget, dietary, pace) are dynamically injected into every plan.
+Persistent user profiling powered by **SQLite**. Your preferences are dynamically injected into every plan.
+
+</td>
+<td width="50%">
 
 ### 🗺️ Interactive Mapping
-**Leaflet.js** integration with gold-themed markers. Pins are automatically dropped on the map as the agent plans your route.
+**Leaflet.js** integration with gold-themed markers. Pins are automatically dropped as the agent plans your route.
 
-### 📄 PDF Engine
-Branded, print-ready PDF exports using `xhtml2pdf`. One-click professional travel docs.
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ Lightning-Fast Inference
+Powered by **Groq Cloud** running **Llama 3.3-70B**. Sub-second token generation for smooth experience.
+
+</td>
+<td width="50%">
+
+### 📊 Financial Dashboard
+Real-time currency conversion via the **Frankfurter API** + a precision budget calculator.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌤️ Live Weather Intelligence
+**OpenWeatherMap** integration for current conditions and 5-day forecasts factored into itineraries.
+
+</td>
+<td width="50%">
+
+### 📄 PDF Export
+One-click export of any AI-generated plan to a **branded, print-ready PDF** using `xhtml2pdf`.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -124,23 +150,33 @@ Branded, print-ready PDF exports using `xhtml2pdf`. One-click professional trave
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ---
 
-## 🛠️ Installation & Setup
+## 🧬 Agentic Workflow — How It Works
+
+This project uses **LangGraph's ReAct (Reasoning + Acting) pattern** to create a truly autonomous agent. The agent:
+1. **Reasons** about the request and decides which tools to call.
+2. **Acts** by executing tool calls (Weather, Places, Currency, Calculator).
+3. **Observes** the results and refines the plan.
+4. **Responds** with a comprehensive, data-backed Markdown itinerary.
+
+---
+
+## 🚀 Installation & Setup
 
 1.  **Clone:** `git clone https://github.com/MustafaKocamann/AI-Based-Trip-Planner.git`
-2.  **Env:** `cp .env.example .env` (Add your Groq & OpenWeather keys)
-3.  **Setup:** `pip install -r requirements.txt`
+2.  **Environment:** `cp .env.example .env` (Add your API keys)
+3.  **Install:** `pip install -r requirements.txt`
 4.  **Backend:** `uvicorn main:app --port 8000`
 5.  **Frontend:** `python flask_app/app.py`
-6.  **Explore:** `http://localhost:5000`
+6.  **Run:** Open `http://localhost:5000`
 
 ---
 
@@ -148,7 +184,7 @@ Branded, print-ready PDF exports using `xhtml2pdf`. One-click professional trave
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
 </p>
 
-<h3 align="center">💛 Lead Developer: <a href="https://github.com/MustafaKocamann">Mustafa Kocaman</a></h3>
+<h3 align="center">💛 Built with passion by <a href="https://github.com/MustafaKocamann">Mustafa Kocaman</a></h3>
 
 <p align="center">
   <a href="https://github.com/MustafaKocamann">
